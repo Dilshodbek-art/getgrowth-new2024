@@ -1,0 +1,43 @@
+// pages/services.js
+<section className="services py-20">
+  <h1 className="text-4xl font-bold text-center mb-12">Our Services</h1>
+
+  {/* IT & Web Solutions */}
+  <div className="service-item mb-10">
+    <h2 className="text-2xl font-semibold mb-4">IT & Web Solutions</h2>
+    <p className="mb-2">We create fully functional websites and Telegram bots for small businesses. From restaurant order bots to e-commerce solutions, we provide everything you need to go online.</p>
+    <ul className="list-disc list-inside">
+      <li>Custom website development</li>
+      <li>Telegram bots for orders, notifications, and customer support</li>
+      <li>Fast, reliable, and secure solutions</li>
+    </ul>
+    <p className="mt-2 font-semibold">Starting from €199</p>
+    <a href="/contact" className="btn-primary mt-2 inline-block">Get Started</a>
+  </div>
+
+  {/* Digital Marketing */}
+  <div className="service-item mb-10">
+    <h2 className="text-2xl font-semibold mb-4">Digital Marketing</h2>
+    <p className="mb-2">Boost your business visibility with our digital marketing services. We help small businesses attract more customers online through targeted strategies.</p>
+    <ul className="list-disc list-inside">
+      <li>SEO & SEM optimization</li>
+      <li>Content creation & social media management</li>
+      <li>Brand strategy and growth consulting</li>
+    </ul>
+    <p className="mt-2 font-semibold">Starting from €149</p>
+    <a href="/contact" className="btn-primary mt-2 inline-block">Get Started</a>
+  </div>
+
+  {/* Graphic Design */}
+  <div className="service-item mb-10">
+    <h2 className="text-2xl font-semibold mb-4">Graphic Design</h2>
+    <p className="mb-2">Bring your brand to life with professional logos, posters, and menu designs. Perfect for restaurants, startups, and small businesses looking to impress.</p>
+    <ul className="list-disc list-inside">
+      <li>Logo design & branding</li>
+      <li>Animated logos</li>
+      <li>Posters, flyers, and menu design</li>
+    </ul>
+    <p className="mt-2 font-semibold">Starting from €99</p>
+    <a href="/contact" className="btn-primary mt-2 inline-block">Get Started</a>
+  </div>
+</section>

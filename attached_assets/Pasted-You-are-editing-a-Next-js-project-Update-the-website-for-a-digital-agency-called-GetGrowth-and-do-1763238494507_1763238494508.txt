@@ -1,0 +1,95 @@
+You are editing a Next.js project. Update the website for a digital agency called "GetGrowth" and do the following in one go. Keep the existing styles where possible and make all changes mobile-friendly. Use environment variables for secrets and do NOT hardcode tokens.
+
+GENERAL REQUIREMENTS:
+- Keep current CSS; add new CSS modules only if necessary.
+- Ensure semantic HTML, accessibility (aria labels, alt text), and responsive design.
+- Use next/head for meta tags (title, description, canonical, OG tags).
+- Lazy-load images/videos where possible.
+
+FEATURES TO ADD / IMPROVE:
+
+1. NAVIGATION:
+- Update navbar: Home | Services | Portfolio | Pricing | About | Contact
+- Hamburger menu on mobile
+- Ensure all pages are linked correctly.
+
+2. HOMEPAGE (pages/index.js):
+- Hero section: H1: "Helping Small Businesses Grow Online", H2: "Websites, Telegram Bots, Marketing & Graphic Design – All in One Place"
+- Two CTAs: "Start Your Project" (link to /contact) and "Chat on Telegram" (placeholder link)
+- Short 3-column feature row (IT/Web, Marketing, Graphic Design) with short benefit copy.
+- Mini-portfolio preview section with 3 thumbnails linking to full portfolio.
+- **Why Choose GetGrowth** section:
+   - Highlight benefits like: 
+       - Affordable solutions for small businesses
+       - All-in-one digital agency (websites, bots, marketing, design)
+       - Fast turnaround
+       - Personalized service
+       - Proven design skills (logos, animations, graphics)
+   - Use bullets or icons for readability.
+- Testimonials placeholder section
+- Footer CTA linking to contact
+
+3. SERVICES PAGE (pages/services.js):
+- List all services with detailed descriptions:
+   - IT & Web Solutions (websites, Telegram bots, order bots)
+   - Digital Marketing (SEO, SEM, content, social media)
+   - Graphic Design (logos, posters, menus)
+- Include deliverables, benefits, and starting price placeholders
+- CTA button under each service: "Get Started"
+
+4. PRICING PAGE (pages/pricing.js):
+- 3-tier packages (Basic, Business, Pro) for each main service
+- Show short bullet points + starting price placeholders
+- Clear CTA: "Order Now" linking to /contact
+
+5. PORTFOLIO PAGE (pages/portfolio.js):
+- Display logos, logo animations (MP4 or video tags), posters/menus
+- Each item has:
+   - Title (e.g., "Logo for Café Brand")
+   - Short case-study description
+   - Larger view or modal when clicked
+- Add category filters: Logos | Logo Animations | Posters/Menus
+
+6. ABOUT PAGE (pages/about.js):
+- About the agency and founder
+- Mission and approach
+- Optional small team placeholders
+- Add why clients should trust GetGrowth (personal touch + expertise)
+
+7. CONTACT PAGE + API (pages/contact.js + pages/api/submit.js):
+- Form fields: name, surname, email, phone (optional), message
+- POST to /api/submit using fetch
+- Show thank-you message after submission
+- API route /api/submit.js:
+   - Accept POST JSON: name, surname, email, message
+   - Validate inputs
+   - Send message to Telegram using process.env.BOT_TOKEN and process.env.CHAT_ID
+   - Return JSON success/failure
+   - Do NOT log secrets
+
+8. SEO:
+- Add unique meta title + description per page
+- Add sitemap.xml (pages or /public)
+- Add robots.txt
+- Use proper H1/H2/H3 for headings
+- Add alt text for all images
+
+9. PERFORMANCE & ACCESSIBILITY:
+- Use Next/Image if images exist
+- Lazy-load portfolio images
+- Alt text + aria labels
+- Test mobile responsiveness
+
+10. CTA & Conversion:
+- Every page should have a CTA: "Start Your Project", "Contact Us", or "Chat on Telegram"
+- Make buttons stand out and link correctly
+- Show confirmation messages after form submission
+
+11. DOCUMENTATION:
+- Add comments about new files created/modified
+- Explain how to set BOT_TOKEN and CHAT_ID environment variables in Replit
+
+RETURN:
+- Short summary of files created/modified
+- Sample code for pages/api/submit.js and the contact fetch in pages/contact.js
+- Do not include any actual secrets

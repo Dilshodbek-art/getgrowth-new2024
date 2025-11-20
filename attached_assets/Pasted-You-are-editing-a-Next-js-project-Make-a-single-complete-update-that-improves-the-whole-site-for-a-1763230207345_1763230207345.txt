@@ -1,0 +1,93 @@
+You are editing a Next.js project. Make a single, complete update that improves the whole site for a new digital agency (GetGrowth). Follow these rules:
+
+GENERAL REQUIREMENTS
+- Do not remove my existing styles or break the current design. Reuse existing CSS modules or global CSS. If new styles are required, add them as small CSS module files or a new global CSS but keep the visual style consistent.
+- Keep all changes inside the Next.js project structure.
+- Use environment variables for secrets: do NOT hardcode BOT_TOKEN or CHAT_ID. Use process.env.BOT_TOKEN and process.env.CHAT_ID.
+- If creating files or changing files, list the files you created/modified at the top of your reply and include short comments in the code.
+- Make all new pages mobile-responsive and accessible (aria attributes, semantic HTML).
+
+FEATURES TO ADD / FIX (one-shot)
+1. NAVBAR
+- Update the main navbar (components/Header or pages/_app if needed) to include links: Home, Services, Portfolio, Pricing, About, Blog (optional), Contact.
+- Ensure the header shows prominently on mobile and has a hamburger menu if needed.
+
+2. HOMEPAGE (pages/index.js or pages/index.tsx)
+- Replace or update homepage content with strong conversion-focused content:
+  - Hero: H1 "Helping Small Businesses Grow Online" and H2 "Websites, Telegram Bots, Marketing & Graphic Design — All in One Place"
+  - Two CTAs: "Start Your Project" (link to /contact) and "Chat on Telegram" (link uses `https://t.me/<your_bot_username>` — place a placeholder).
+  - Short three-column features row (IT & Web, Digital Marketing, Graphic Design) with short benefit-focused copy.
+  - Small portfolio preview section showing 3 thumbnails (link to /portfolio).
+  - Testimonials placeholder area.
+  - Footer CTA linking to contact.
+
+3. SERVICES PAGE (pages/services.js)
+- Create a services page describing:
+  - IT & Web Solutions (websites, Telegram bots, order bots)
+  - Digital Marketing (SEO, SMM, content)
+  - Graphic Design (logos, posters, menus)
+- For each service add short bullet points, deliverables, and "Starting at" price placeholders.
+
+4. PRICING PAGE (pages/pricing.js)
+- Add a simple pricing table with 3 packages per service (Basic, Business, Pro). Use clear short bullets and price placeholders (e.g., €99, €199).
+
+5. PORTFOLIO PAGE (pages/portfolio.js)
+- Create a gallery layout (grid) for:
+  - Logos (image thumbnails)
+  - Logo Animations (embed MP4s or video tags)
+  - Posters / Menus
+- Use placeholder images/videos with descriptive alt text. Each item should open a simple modal or new page (static dynamic routes not necessary) with a larger view and a short case text.
+- Add a short “How we made this” paragraph for each sample item (you will replace these with your actual works).
+
+6. ABOUT PAGE (pages/about.js)
+- Add an About Us section with founder intro, agency mission, 2–3 lines about approach, optional small team area (use placeholders).
+
+7. CONTACT PAGE + API (pages/contact.js + pages/api/submit.js)
+- Create a contact page with:
+  - Simple form fields: name, surname, email, phone (optional), message, hidden CSRF-like token not required for this demo.
+  - The form should POST to `/api/submit` using fetch (client-side).
+  - After submit, show a friendly success message or error handling.
+
+- Create an API route `pages/api/submit.js` that:
+  - Accepts POST JSON with name, surname, email, message.
+  - Validates inputs (strip tags, check required fields).
+  - Sends the message to Telegram using the Bot API:
+      const BOT_TOKEN = process.env.BOT_TOKEN;
+      const CHAT_ID = process.env.CHAT_ID;
+      await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, { method: 'POST', body: JSON.stringify({ chat_id: CHAT_ID, text }) , headers: { 'Content-Type': 'application/json' } });
+  - Returns JSON `{ ok: true }` or `{ ok: false, error: '...' }`.
+  - Use try/catch and proper status codes (200 for ok, 400/500 for errors).
+  - Do NOT log tokens; only log safe messages.
+
+- Optionally (recommended): Save the submission into a lightweight file or Replit DB if available — but only if you detect an existing DB module; otherwise skip. Mention where logs are stored (console only).
+
+8. SEO, META & SITEMAP
+- Add head metadata for each page using next/head: title, meta description, canonical link.
+- Create a basic `pages/sitemap.xml.js` or `public/sitemap.xml` generator and `robots.txt` in /public that references sitemap.
+- Add Open Graph meta tags for homepage and portfolio items.
+
+9. PERFORMANCE & ACCESSIBILITY
+- Use Next/Image if images folder exists; otherwise use optimized <img> with width/height attributes.
+- Lazy-load portfolio images (loading="lazy").
+- Add alt text for all images and aria-labels for buttons.
+- Ensure forms have labels for accessibility.
+
+10. STYLING
+- Reuse existing CSS. If no clear pattern, add `styles/portfolio.module.css`, `styles/pricing.module.css`, etc. Keep styles minimal and consistent.
+- Ensure layout has responsive grid and spacing.
+
+11. TESTING & DOCUMENTATION
+- Add a README section or comment at the top of the changes describing:
+  - Files added/modified
+  - How to set environment variables in Replit: BOT_TOKEN and CHAT_ID
+  - How to test: run project, open /contact, submit form, check Telegram
+- Do not create any git commits with secrets.
+
+SAFETY / FINAL NOTES
+- If BOT_TOKEN or CHAT_ID is missing, the API route should respond with a clear error message describing missing env.
+- Keep all code secure and do not output or print secrets to logs.
+- Keep changes minimal where possible so the assistant does not replace the entire project structure.
+
+Return:
+- A short summary of files created/modified and where to set env variables.
+- Sample code for pages/api/submit.js and the contact fetch function in pages/contact.js so I can see exactly how the form calls the API.

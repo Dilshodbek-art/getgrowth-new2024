@@ -1,0 +1,41 @@
+<article class="blog-post max-w-4xl mx-auto p-6">
+  <h1 class="text-4xl font-bold mb-6">Why Website is Important for Small Businesses</h1>
+
+  <p class="mb-4">
+    In today’s digital world, having a professional website is no longer optional for small businesses — it’s essential. A website serves as your online storefront, allowing potential customers to discover your services, learn about your brand, and take action, whether that’s contacting you, placing an order, or subscribing to updates.
+  </p>
+
+  <h2 class="text-2xl font-semibold mt-6 mb-4">1. Build Credibility and Trust</h2>
+  <p class="mb-4">
+    A well-designed website instantly gives your business credibility. Customers are more likely to trust a company that has a professional online presence. Including your portfolio, testimonials, and clear service descriptions can reinforce trust and encourage engagement.
+  </p>
+
+  <h2 class="text-2xl font-semibold mt-6 mb-4">2. Reach a Larger Audience</h2>
+  <p class="mb-4">
+    Unlike a physical store limited by location, a website allows your business to reach people anywhere in the world. With proper SEO and content marketing, your website can attract organic traffic from Google and other search engines, bringing in new customers continuously.
+  </p>
+
+  <h2 class="text-2xl font-semibold mt-6 mb-4">3. Promote Your Products and Services</h2>
+  <p class="mb-4">
+    Your website is the perfect place to showcase your offerings. Small businesses can use dedicated service pages, portfolios, or product listings to highlight what makes them unique. You can also link to other pages on your site, like your <a href="/services" class="text-blue-600 underline">services page</a> or <a href="/portfolio" class="text-blue-600 underline">portfolio</a>, to guide visitors and improve conversions.
+  </p>
+
+  <h2 class="text-2xl font-semibold mt-6 mb-4">4. Available 24/7</h2>
+  <p class="mb-4">
+    A website never sleeps. Customers can find information about your business at any time, even outside of working hours. This continuous availability can lead to more inquiries, orders, and leads without extra effort from your team.
+  </p>
+
+  <h2 class="text-2xl font-semibold mt-6 mb-4">5. Cost-Effective Marketing</h2>
+  <p class="mb-4">
+    Compared to traditional advertising, maintaining a website is cost-effective. It allows you to run campaigns, showcase promotions, and generate leads with a fraction of the cost of print, radio, or TV ads. Combine your website with social media, email marketing, or Telegram bots for even greater results.
+  </p>
+
+  <h2 class="text-2xl font-semibold mt-6 mb-4">Conclusion</h2>
+  <p class="mb-4">
+    A website is the backbone of your online presence. It builds trust, expands your reach, promotes your services, and works for you 24/7. For small businesses looking to grow, investing in a professional website is one of the smartest decisions you can make.
+  </p>
+
+  <p class="mt-6 font-semibold">
+    Ready to grow your business online? <a href="/contact" class="text-blue-600 underline">Contact GetGrowth today</a> to get a custom website and digital solutions tailored for your small business.
+  </p>
+</article>

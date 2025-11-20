@@ -1,0 +1,368 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "services": "Xizmatlar",
+    "comments": "Izohlar",
+    "portfolio": "Portfolio",
+    "pricing": "Narxlar",
+    "blog": "Blog",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "title": "Kichik Bizneslarni Onlayn O'stiramiz",
+    "subtitle": "Veb-saytlar, Telegram Botlar, Marketing va Grafik Dizayn — Hammasi Bir Joyda",
+    "startProject": "Loyihangizni Bugun Boshlang",
+    "chatTelegram": "Telegram'da Yozish"
+  },
+  "services": {
+    "title": "Bizning Xizmatlar",
+    "subtitle": "Kichik bizneslarning onlayn muvaffaqiyati uchun keng ko'lamli raqamli yechimlar taqdim etamiz.",
+    "cta": "Biznesingizga Qanday Yordam Berishimizni Bilib Oling",
+    "itWeb": {
+      "title": "IT va Veb Yechimlari",
+      "description": "Biznesingiz ehtiyojlariga moslashtirilgan professional veb-saytlar va aqlli Telegram botlar.",
+      "websites": "Maxsus Veb-saytlar",
+      "orderBots": "Buyurtma va Bron Qilish Botlari",
+      "restaurantBots": "Restoran Botlari",
+      "automation": "Biznesni Avtomatlashtirish",
+      "fullDescription": "Biz kichik bizneslar uchun to'liq funktsional veb-saytlar va Telegram botlar yaratamiz. Restoranlarda buyurtma botlaridan tortib, elektron tijorat yechimlarigacha — onlayn chiqish uchun kerak bo'lgan hamma narsani taqdim etamiz.",
+      "features": [
+        "Maxsus veb-sayt ishlab chiqish",
+        "Buyurtmalar, bildirishnomalar va mijozlarni qo'llab-quvvatlash uchun Telegram botlar",
+        "Tez, ishonchli va xavfsiz yechimlar"
+      ],
+      "startingPrice": "€199 dan boshlab"
+    },
+    "marketing": {
+      "title": "Raqamli Marketing",
+      "description": "Ko'proq mijozlarga erishib, isbotlangan marketing strategiyalari bilan onlayn mavjudligingizni oshiring.",
+      "seo": "SEO Optimallashtirish",
+      "socialMedia": "Ijtimoiy Tarmoqlar Marketingi",
+      "contentMarketing": "Kontent Marketing",
+      "branding": "Brend Strategiyasi",
+      "fullDescription": "Raqamli marketing xizmatlarimiz bilan biznesingiz ko'rinishini oshiring. Biz kichik bizneslarni maqsadli strategiyalar orqali onlayn ko'proq mijozlarga jalb qilishga yordam beramiz.",
+      "features": [
+        "SEO va SEM optimallashtirish",
+        "Kontent yaratish va ijtimoiy tarmoqlarni boshqarish",
+        "Brend strategiyasi va o'sish bo'yicha konsalting"
+      ],
+      "startingPrice": "€149 dan boshlab"
+    },
+    "design": {
+      "title": "Grafik Dizayn",
+      "description": "Biznesingizni raqobatchilardan ajratib turadigan diqqatni tortadigan dizaynlar.",
+      "logos": "Logo Dizayni",
+      "posters": "Poster va Flyerlar",
+      "menus": "Menyu Dizayni",
+      "branding": "Brend Identifikatsiyasi",
+      "fullDescription": "Brendingizni professional logotiplar, posterlar va menyu dizaynlari bilan jonlantiring. Restoranlar, startaplar va taassurot qoldirmoqchi bo'lgan kichik bizneslar uchun ideal.",
+      "features": [
+        "Logo dizayni va brending",
+        "Animatsiyalangan logotiplar",
+        "Poster, flyer va menyu dizayni"
+      ],
+      "startingPrice": "€99 dan boshlab"
+    },
+    "getStarted": "Boshlash"
+  },
+  "whyChoose": {
+    "title": "Nega GetGrowth?",
+    "subtitle": "Biz kichik bizneslarni shaxsiylashtirilgan va arzon yechimlar bilan onlayn muvaffaqiyatga erishtirishga bag'ishlanganmiz.",
+    "affordable": "Kichik bizneslar uchun moslashtirilgan arzon yechimlar",
+    "allInOne": "To'liq xizmat agentligi: veb-saytlar, Telegram botlar, marketing va grafik dizayn",
+    "fastTurnaround": "Biznesingiz muddatlariga javob berish uchun tez loyiha bajarish",
+    "personalService": "Har bir mijoz uchun shaxsiylashtirilgan, do'stona xizmat",
+    "expertDesign": "Logotiplar, animatsiyalar va posterlar bo'yicha ekspert dizayn ko'nikmalari",
+    "provenMethods": "Biznesingizni onlayn e'tiborga sazovor qilish uchun isbotlangan usullar"
+  },
+  "pricing": {
+    "title": "Bizning Narxlar",
+    "subtitle": "Biznesingiz bilan birga o'sadigan moslashuvchan rejalar. Oylik yoki yillik to'lovni tanlang va tejang.",
+    "monthly": "Oylik",
+    "annual": "Yillik",
+    "month": "oy",
+    "year": "yil",
+    "mostPopular": "Eng Mashhur",
+    "saveMessage": "Yillik to'lovda 17% tejang",
+    "basic": {
+      "name": "Boshlang'ich",
+      "description": "Onlayn boshlayotgan startaplar va kichik loyihalar uchun ideal",
+      "cta": "Boshlash",
+      "features": [
+        "1 ta maxsus sahifa",
+        "Mobil moslashuvchan dizayn",
+        "Aloqa formasi integratsiyasi",
+        "Asosiy SEO optimallashtirish",
+        "1 oy qo'llab-quvvatlash"
+      ]
+    },
+    "business": {
+      "name": "Biznes",
+      "description": "Onlayn mavjudligini kengaytirishga tayyor o'sayotgan bizneslar uchun",
+      "cta": "Boshlash",
+      "features": [
+        "5 tagacha maxsus sahifa",
+        "Kengaytirilgan moslashuvchan dizayn",
+        "CMS integratsiyasi",
+        "Kengaytirilgan SEO va analitika",
+        "Ijtimoiy tarmoq integratsiyasi",
+        "3 oy qo'llab-quvvatlash"
+      ]
+    },
+    "pro": {
+      "name": "Professional",
+      "description": "Kengaytirilgan ehtiyojlarga ega rivojlangan bizneslar uchun to'liq yechim",
+      "cta": "Boshlash",
+      "features": [
+        "Cheksiz sahifalar",
+        "Elektron tijorat funksiyalari",
+        "Maxsus funksiyalar va integratsiyalar",
+        "To'lov tizimi sozlash",
+        "Ustuvor 24/7 qo'llab-quvvatlash",
+        "Doimiy xizmat va yangilanishlar"
+      ]
+    },
+    "webDevelopment": {
+      "title": "Veb-sayt Ishlab Chiqish",
+      "basic": ["Landing Sahifa", "Mobil Moslashtirilgan", "Aloqa Formasi", "Asosiy SEO"],
+      "business": ["Ko'p sahifali Veb-sayt", "CMS Integratsiyasi", "Kengaytirilgan SEO", "Analitika Sozlash", "Ijtimoiy Tarmoq Havolalari"],
+      "pro": ["Elektron Tijorat Sayti", "Maxsus Funksiyalar", "To'lov Integratsiyasi", "Kengaytirilgan Analitika", "Ustuvor Qo'llab-quvvatlash", "Doimiy Xizmat"]
+    },
+    "telegramBots": {
+      "title": "Telegram Botlar",
+      "basic": ["Oddiy Buyurtma Boti", "Asosiy Buyruqlar", "Admin Panel"],
+      "business": ["Kengaytirilgan Bot Funksiyalari", "To'lov Integratsiyasi", "Bildirishnoma Tizimi", "Mijozlar Ma'lumotlar Bazasi"],
+      "pro": ["To'liq CRM Integratsiyasi", "AI Javoblar", "Analitika Paneli", "Ko'p Tilli Qo'llab-quvvatlash", "Maxsus Integratsiyalar"]
+    },
+    "marketing": {
+      "title": "Raqamli Marketing",
+      "basic": ["Ijtimoiy Tarmoqlarni Sozlash", "Kontent Rejasi (1 oy)", "Asosiy SEO Audit"],
+      "business": ["Ijtimoiy Tarmoqlarni Boshqarish (3 oy)", "Kontent Yaratish", "SEO Optimallashtirish", "Oylik Hisobotlar"],
+      "pro": ["To'liq Marketing Strategiyasi", "6 oylik Kampaniya", "Pullik Reklama", "Influenserlar Bilan Ishlash", "Kengaytirilgan Analitika", "Shaxsiy Menejer"]
+    },
+    "design": {
+      "title": "Grafik Dizayn",
+      "basic": ["Logo Dizayni (2 kontseptsiya)", "Vizit Kartochka Dizayni", "Manba Fayllari"],
+      "business": ["To'liq Brend Identifikatsiyasi", "Logo Variatsiyalari", "Ijtimoiy Tarmoq Shablonlari", "Brend Ko'rsatmalari"],
+      "pro": ["To'liq Brend Paketi", "Animatsiyalangan Logo", "Marketing Materiallari", "Qadoqlash Dizayni", "Brend Strategiyasi", "Cheksiz Tahrir"]
+    }
+  },
+  "about": {
+    "title": "GetGrowth Haqida",
+    "description": "GetGrowth - kichik bizneslarni onlayn o'stirishga yordam beradigan yangi raqamli agentlik. Biz veb-saytlar, Telegram botlar, marketing va dizayn bo'yicha ixtisoslashganmiz. Bizning missiyamiz - biznesingiz raqamli dunyoda muvaffaqiyat qozonishiga yordam berish uchun yuqori sifatli va arzon yechimlarni taqdim etish."
+  },
+  "cta": {
+    "title": "Biznesingizni O'stirishga Tayyormisiz?",
+    "subtitle": "Bugun bog'laning va loyihangizni boshlaylik.",
+    "contact": "Hozir Bog'lanish"
+  },
+  "contact": {
+    "title": "Biz Bilan Bog'laning",
+    "formTitle": "Bizga Xabar Yuboring",
+    "name": "Ism",
+    "surname": "Familiya",
+    "message": "Xabar",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "successMessage": "Xabaringiz muvaffaqiyatli yuborildi! Tez orada siz bilan bog'lanamiz.",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "getInTouch": "Murojaat Qiling"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan.",
+    "tagline": "Biznesni onlayn o'stiramiz",
+    "followUs": "Bizni Kuzatib Boring"
+  },
+  "portfolio": {
+    "title": "Bizning Portfolio",
+    "subtitle": "Turli sohalardagi mijozlar uchun qilgan so'nggi ishlarimizga qarang.",
+    "logos": {
+      "title": "Logo Dizaynlari"
+    },
+    "animations": {
+      "title": "Logo Animatsiyalari",
+      "placeholder": "Video Tez Orada",
+      "videoTitle": "Logo Animatsiyasi",
+      "description": "Animatsiyali logo"
+    },
+    "posters": {
+      "title": "Poster va Menyu Dizaynlari",
+      "placeholder": "Dizayn Namunasi",
+      "projectTitle": "Dizayn Loyihasi",
+      "description": "Poster / Menyu Dizayni"
+    },
+    "cta": {
+      "title": "Ko'rganingiz Yoqdimi?",
+      "subtitle": "Keling, sizning biznesingiz uchun ham ajoyib narsa yarataylik!",
+      "button": "Loyihangizni Boshlash"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Kichik biznesingizni onlayn o'stirish uchun maslahatlar va g'oyalar",
+    "readMore": "Davom",
+    "backToBlog": "Blogga qaytish",
+    "cta": {
+      "title": "Veb-saytingiz bilan yordam kerakmi?",
+      "subtitle": "GetGrowth sizning professional veb-saytingiz va raqamli mavjudligingizni yaratsın"
+    },
+    "post1": {
+      "title": "Kichik Bizneslar uchun Veb-sayt nima uchun muhim",
+      "excerpt": "Zamonaviy raqamli dunyoda kichik bizneslar uchun professional veb-sayt nima uchun muhimligini bilib oling.",
+      "intro": "Bugungi raqamli dunyoda kichik bizneslar uchun professional veb-saytga ega bo'lish endi ixtiyoriy emas — bu zaruriy. Veb-sayt sizning onlayn do'koningiz bo'lib xizmat qiladi, potentsial mijozlarga xizmatlaringizni topish, brendingiz haqida bilib olish va harakat qilish imkonini beradi — bu siz bilan bog'lanish, buyurtma berish yoki yangilanishlarga obuna bo'lish bo'lsin.",
+      "section1": {
+        "title": "1. Ishonch va E'tiborni Mustahkamlash",
+        "content": "Yaxshi ishlab chiqilgan veb-sayt biznesingizga zudlik bilan ishonch bag'ishlaydi. Mijozlar professional onlayn mavjudlikka ega kompaniyaga ko'proq ishonishadi. Portfolio, guvohnomalar va aniq xizmat tavsiflarini kiritish ishonchni mustahkamlashi va jarayonni rag'batlantirishi mumkin."
+      },
+      "section2": {
+        "title": "2. Kengroq Auditoriyaga Yetish",
+        "content": "Joylashuv bilan cheklangan jismoniy do'kondan farqli o'laroq, veb-sayt biznesingizga dunyoning istalgan joyidagi odamlarni qamrab olish imkonini beradi. To'g'ri SEO va kontent marketingi bilan veb-saytingiz Google va boshqa qidiruv tizimlaridan organik trafikni jalb qilishi mumkin, doimiy ravishda yangi mijozlarni jalb qiladi."
+      },
+      "section3": {
+        "title": "3. Mahsulot va Xizmatlarni Targ'ib Qilish",
+        "content": "Veb-saytingiz takliflaringizni ko'rsatish uchun mukammal joy. Kichik bizneslar o'ziga xos xususiyatlarini ta'kidlash uchun maxsus xizmat sahifalari, portfoliolar yoki mahsulot ro'yxatlaridan foydalanishi mumkin. Shuningdek, tashrif buyuruvchilarni yo'naltirish va konversiyalarni yaxshilash uchun saytingizdagi boshqa sahifalarga, masalan",
+        "or": "yoki",
+        "end": "ga havola qilishingiz mumkin."
+      },
+      "section4": {
+        "title": "4. 24/7 Mavjudlik",
+        "content": "Veb-sayt hech qachon uxlamaydi. Mijozlar sizning biznesingiz haqida ma'lumotni istalgan vaqtda, hatto ish vaqtidan tashqarida ham topishi mumkin. Bu doimiy mavjudlik jamoangizdan qo'shimcha harakatsiz ko'proq so'rovlar, buyurtmalar va yetakchilarga olib kelishi mumkin."
+      },
+      "section5": {
+        "title": "5. Tejamkor Marketing",
+        "content": "An'anaviy reklamaga nisbatan veb-saytni boshqarish tejamkor. Bu bosma, radio yoki televidenie reklamasi narxining bir qismida kampaniyalar o'tkazish, aksiyalarni ko'rsatish va yetakchilarni ishlab chiqarish imkonini beradi. Yanada yaxshi natijalar uchun veb-saytingizni ijtimoiy tarmoqlar, elektron pochta marketingi yoki Telegram botlar bilan birlashtiring."
+      },
+      "conclusion": {
+        "title": "Xulosa",
+        "content": "Veb-sayt onlayn mavjudligingizning asosi hisoblanadi. U ishonchni mustahkamlaydi, qamrovingizni kengaytiradi, xizmatlaringizni targ'ib qiladi va siz uchun 24/7 ishlaydi. O'sishga intilayotgan kichik bizneslar uchun professional veb-saytga sarmoya kiritish eng oqilona qarorlardan biridir."
+      },
+      "cta": "Biznesingizni onlayn o'stirishga tayyormisiz?",
+      "ctaLink": "Bugun GetGrowth bilan bog'laning",
+      "ctaEnd": "kichik biznesingiz uchun moslashtirilgan maxsus veb-sayt va raqamli yechimlarni olish uchun."
+    },
+    "post2": {
+      "title": "Biznesingiz Veb-saytini Ishga Tushirish bo'yicha Bosqichma-bosqich Qo'llanma",
+      "excerpt": "Biznes veb-saytini rejalashtiri shdan ishga tushirishgacha 7 oddiy bosqichda ishga tushirishni o'rganing.",
+      "intro": "Biznes veb-saytini ishga tushirish qo'rqinchli ko'rinishi mumkin, lekin to'g'ri reja bilan bu oddiy va foydali bo'lishi mumkin. Veb-sayt onlayn mavjudligingizning asosi bo'lib, yangi mijozlarni jalb qilish, mahsulot yoki xizmatlaringizni ko'rsatish va brendingizni rivojlantirishga yordam beradi. Veb-sayt nima uchun muhimligini tushunmoqchi bo'lsangiz,",
+      "step1": {
+        "title": "1-qadam: Veb-sayt Maqsadlarini Belgilang",
+        "content": "Veb-saytingiz bilan nimaga erishmoqchiligingizni o'zingizdan so'rash bilan boshlang. Bu yetakchilarni ishlab chiqarish, mahsulot sotish, portfolio ko'rsatish yoki xizmatlar haqida ma'lumot berishmi? Aniq maqsadlar saytingizning dizayni va funksionalligini belgilaydi."
+      },
+      "step2": {
+        "title": "2-qadam: Domen Nomi va Xostingni Tanlang",
+        "content": "Brendingizni aks ettiruvchi va esda qoladigan domen nomini tanlang. Uni tez yuklash va uzluksiz ishlashni ta'minlaydigan ishonchli xosting provayderi bilan juftlang. GetGrowth domeningiz va xostingingizni tez sozlashda yordam beradi."
+      },
+      "step3": {
+        "title": "3-qadam: Veb-sayt Tuzilmasini Rejalashtiring",
+        "content": "Kerakli sahifalarni belgilang: bosh sahifa, xizmatlar, biz haqimizda, aloqa va blog. Tashrif buyuruvchilar uchun navigatsiya oddiy va intuitiv ekanligiga ishonch hosil qiling."
+      },
+      "step4": {
+        "title": "4-qadam: Veb-saytingizni Loyihalash",
+        "content": "Brendingizni aks ettiruvchi toza va professional dizaynni tanlang. Mobil moslashuvchanlik, oson navigatsiya va tez yuklashga e'tibor bering. Saytingizni jozibali qilish uchun",
+        "end": "dan logotiplar, rasmlar yoki posterlar kabi vizual elementlarni kiriting."
+      },
+      "step5": {
+        "title": "5-qadam: Kontent Qo'shing va SEO ni Optimallashtiring",
+        "content": "Har bir sahifa uchun sifatli kontent yozing. Asosiy kalit so'zlar va tegishli iboralarni tabiiy ravishda kiriting. Rasmlar uchun meta sarlavhalar, tavsiflar va muqobil matn qo'shing. Boshqa blog maqolalariga havolalar veb-saytingiz SEO sini yaxshilashi va tashrif buyuruvchilarga kontentingizda navigatsiya qilishda yordam berishi mumkin."
+      },
+      "step6": {
+        "title": "6-qadam: Sinovdan O'tkazing va Ishga Tushiring",
+        "content": "Jonli efirga chiqishdan oldin veb-saytingizni turli qurilmalar va brauzerlar da sinab ko'ring. Ishlamay qolgan havolalar, xatolar va qulaylik muammolarini tekshiring. Hammasi silliq ishlaganidan keyin, veb-saytingizni ishga tushiring va ijtimoiy tarmoqlarda yoki elektron pochta orqali ulashing."
+      },
+      "step7": {
+        "title": "7-qadam: Monitoring va Yaxshilash",
+        "content": "Tashrif buyuruvchilar, konversiyalar va foydalanuvchi xatti-harakatlarini kuzatish uchun analitika vositalaridan foydalaning. Muntazam ravishda kontentingizni yangilang, yangi blog maqolalarini qo'shing va onlayn mavjudligingizni rivojlantirishni davom ettirish uchun fikrlarga asoslanib veb-saytingizni yaxshilang."
+      },
+      "cta": "Veb-saytni muammosiz ishga tushirishga tayyormisiz?",
+      "ctaLink": "Bugun GetGrowth bilan bog'laning",
+      "ctaEnd": "kichik biznesingiz uchun moslashtirilgan professional veb-sayt yaratish, raqamli marketing va qo'llab-quvvatlashni olish uchun."
+    },
+    "post3": {
+      "title": "Telegram Ovqat Buyurtma Botlari Kichik Restoranlarni Qanday O'zgartiradi",
+      "excerpt": "Telegram buyurtma tizimlari kichik restoranlar uchun nima uchun eng arzon, tez va samarali yechim ekanligini bilib oling.",
+      "intro": "Bugungi tez sur'atli ovqat sanoatida tezlik va soddalik hamma narsa. Kichik restoranlar va tez ovqat biznes ortiqcha yuklangan telefon liniyalari, yo'qolgan buyurtmalar va yetkazib berish chalkashliklari bilan kurashadi. Telegram asosidagi ovqat buyurtma tizimlari bu muammolarning barchasini bir vaqtning o'zida hal qiladi — va to'liq mobil ilova yaratishdan ancha arzon.",
+      "section1": {
+        "title": "1. Telegram Mijozlarga Tanish",
+        "content": "Yangi ilova yuklab olish kerak emas — odamlar shunchaki 'Boshlash' tugmasini bosib buyurtma berishni boshlaydilar. Bu konversiya va buyurtma chastotasini oshiradi."
+      },
+      "section2": {
+        "title": "2. Avtomatlashtirilgan Buyurtma Xatolarni Kamaytiradi",
+        "content": "Mijozlar vizual menyudan mahsulotlarni tanlaydilar, savatchaga qo'shadilar, to'lov turini tanlaydilar va to'g'ri yetkazib berish ma'lumotlarini yuboradilar. Bu quyidagilarni bartaraf etadi:",
+        "point1": "Noto'g'ri buyurtmalar",
+        "point2": "To'liq bo'lmagan manzillar",
+        "point3": "Telefonda tushunmaslik"
+      },
+      "section3": {
+        "title": "3. Tezroq Yetkazib Berish va Yaxshi Ish Jarayoni",
+        "content": "Telegram WebApp tizimi bilan:",
+        "point1": "Buyurtmalar darhol administratorga keladi",
+        "point2": "Joylashuv belgisi avtomatik yuboriladi",
+        "point3": "Buyurtma tafsilotlari yaxshi tartibga solingan"
+      },
+      "section4": {
+        "title": "4. Ovqat Yetkazib Berish Ilovalari Kabi Oylik To'lovlar Yo'q",
+        "content": "Glovo yoki Wolt kabi platformalar 25–35% komissiya oladi. Telegram botlarida nol komissiya, shuning uchun restoraningiz barcha foyda oladi."
+      },
+      "section5": {
+        "title": "5. Har Qanday Qurilmada Ishlaydi",
+        "content": "Telegram botlari ishlay",
+        "point1": "iPhone",
+        "point2": "Android",
+        "point3": "Kompyuter",
+        "point4": "Planshet"
+      },
+      "section6": {
+        "title": "6. Kichik Restoranlar Uchun Professional Obraz",
+        "content": "Avtomatlashtirilgan buyurtma tizimi bo'lgan restoran zamonaviyroq va ishonchli ko'rinadi. Mijozlar tez va qulay xizmat taklif qiluvchi biznesdan buyurtma berishni afzal ko'radilar."
+      },
+      "conclusion": {
+        "title": "Xulosa",
+        "content": "Telegram ovqat buyurtma tizimi biznesni avtomatlashtirmoqchi bo'lgan kichik restoranlar uchun eng arzon, tez va samarali yechimdir. Agar siz restoraningiz uchun shunday bot istasangiz, GetGrowth agentligi bilan bog'laning — biz to'lov variantlari, yetkazib berish formalari va administrator pane bilan to'liq buyurtma tizimlarini ishlab chiqamiz."
+      },
+      "cta": "Haqiqiy Telegram buyurtma botini ishlab ko'rmoqchimisiz?",
+      "ctaLink": "BekBurger misolimizni ko'ring",
+      "ctaEnd": "buyurtma tizimini qanday avtomatlashtirganligimizni bilib oling."
+    }
+  },
+  "caseStudy": {
+    "title": "Mijoz Muvaffaqiyat Hikoyasi",
+    "subtitle": "BekBurger uchun maxsus Telegram bot yordamida buyurtmalarni qanday avtomatlashtirganligimizni ko'ring",
+    "projectTitle": "Tez Ovqat Telegram Buyurtma Boti",
+    "clientName": "BekBurger (@bekburger1_bot)",
+    "testimonial": "GetGrowth bizga Telegram da to'liq buyurtma tizimini yaratdi. Endi mijozlarimiz rasm bilan to'g'ridan-to'g'ri bot orqali buyurtma berishlari, to'lov usulini tanlashlari mumkin va biz barcha buyurtmalarni darhol olamiz. Telefondagi chalkashliklardan xalos bo'ldik!",
+    "testimonialAuthor": "BekBurger Egasi",
+    "featuresTitle": "Loyiha Imkoniyatlari",
+    "features": {
+      "menu": "Rasmli to'liq mahsulot menyusi",
+      "cart": "Xarid savati tizimi",
+      "payment": "Naqd yoki karta orqali to'lov",
+      "customerForm": "Mijoz ma'lumotlari formasi (ism, telefon, manzil)",
+      "location": "Yetkazib berish uchun joylashuv belgisi",
+      "autoOrder": "Buyurtmalar avtomatik administratorga yuboriladi"
+    },
+    "tryDemo": "Jonli Demo Botni Sinab Ko'ring",
+    "ctaButton": "Bugun Botingizni Oling"
+  },
+  "comments": {
+    "title": "Tashrif Buyuruvchilarimiz Nima Deydi",
+    "subtitle": "Fikrlaringizni bildiring, savol bering yoki fikr-mulohaza qoldiring!",
+    "namePlaceholder": "Ismingiz (ixtiyoriy)",
+    "commentPlaceholder": "Izohingizni shu yerga yozing...",
+    "submitButton": "Izoh Qoldirish",
+    "submitting": "Yuborilmoqda...",
+    "replyButton": "Javob Berish",
+    "cancelButton": "Bekor Qilish",
+    "likeButton": "Yoqtirish",
+    "deleteButton": "O'chirish",
+    "deletePrompt": "O'chirish uchun administrator parolini kiriting:",
+    "guestName": "Mehmon",
+    "justNow": "hozir",
+    "minutesAgo": "daqiqa oldin",
+    "hoursAgo": "soat oldin",
+    "daysAgo": "kun oldin",
+    "noComments": "Hali izohlar yo'q. Birinchi bo'lib fikrlaringizni bildiring!",
+    "totalComments": "Jami izohlar"
+  }
+}

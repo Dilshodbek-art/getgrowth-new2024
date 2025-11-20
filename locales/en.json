@@ -1,0 +1,368 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "comments": "Comments",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Helping Small Businesses Grow Online",
+    "subtitle": "Websites, Telegram Bots, Marketing, and Graphic Design — All in One Place",
+    "startProject": "Start Your Project Today",
+    "chatTelegram": "Chat on Telegram"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide a wide range of digital solutions to help small businesses succeed online.",
+    "cta": "See How We Can Help Your Business",
+    "itWeb": {
+      "title": "IT & Web Solutions",
+      "description": "Professional websites and smart Telegram bots tailored to your business needs.",
+      "websites": "Custom Websites",
+      "orderBots": "Order & Booking Bots",
+      "restaurantBots": "Restaurant Bots",
+      "automation": "Business Automation",
+      "fullDescription": "We create fully functional websites and Telegram bots for small businesses. From restaurant order bots to e-commerce solutions, we provide everything you need to go online.",
+      "features": [
+        "Custom website development",
+        "Telegram bots for orders, notifications, and customer support",
+        "Fast, reliable, and secure solutions"
+      ],
+      "startingPrice": "Starting from €199"
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "description": "Reach more customers and grow your online presence with proven marketing strategies.",
+      "seo": "SEO Optimization",
+      "socialMedia": "Social Media Marketing",
+      "contentMarketing": "Content Marketing",
+      "branding": "Brand Strategy",
+      "fullDescription": "Boost your business visibility with our digital marketing services. We help small businesses attract more customers online through targeted strategies.",
+      "features": [
+        "SEO & SEM optimization",
+        "Content creation & social media management",
+        "Brand strategy and growth consulting"
+      ],
+      "startingPrice": "Starting from €149"
+    },
+    "design": {
+      "title": "Graphic Design",
+      "description": "Eye-catching designs that make your business stand out from the competition.",
+      "logos": "Logo Design",
+      "posters": "Posters & Flyers",
+      "menus": "Menu Design",
+      "branding": "Brand Identity",
+      "fullDescription": "Bring your brand to life with professional logos, posters, and menu designs. Perfect for restaurants, startups, and small businesses looking to impress.",
+      "features": [
+        "Logo design & branding",
+        "Animated logos",
+        "Posters, flyers, and menu design"
+      ],
+      "startingPrice": "Starting from €99"
+    },
+    "getStarted": "Get Started"
+  },
+  "whyChoose": {
+    "title": "Why Choose GetGrowth?",
+    "subtitle": "We're dedicated to helping small businesses succeed online with personalized, affordable solutions.",
+    "affordable": "Affordable solutions tailored for small businesses",
+    "allInOne": "All-in-one digital agency: websites, Telegram bots, marketing, and graphic design",
+    "fastTurnaround": "Fast project turnaround to meet your business deadlines",
+    "personalService": "Personalized, friendly service for each client",
+    "expertDesign": "Expert design skills with logos, animations, and posters",
+    "provenMethods": "Proven methods to help your business get noticed online"
+  },
+  "pricing": {
+    "title": "Our Pricing",
+    "subtitle": "Flexible plans that grow with your business. Choose monthly or save with annual billing.",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "month": "month",
+    "year": "year",
+    "mostPopular": "Most Popular",
+    "saveMessage": "Save 17% with annual billing",
+    "basic": {
+      "name": "Basic",
+      "description": "Perfect for startups and small projects getting started online",
+      "cta": "Get Started",
+      "features": [
+        "1 custom landing page",
+        "Mobile responsive design",
+        "Contact form integration",
+        "Basic SEO optimization",
+        "1 month of support"
+      ]
+    },
+    "business": {
+      "name": "Business",
+      "description": "Ideal for growing businesses ready to scale their online presence",
+      "cta": "Get Started",
+      "features": [
+        "Up to 5 custom pages",
+        "Advanced responsive design",
+        "CMS integration",
+        "Advanced SEO & analytics",
+        "Social media integration",
+        "3 months of support"
+      ]
+    },
+    "pro": {
+      "name": "Professional",
+      "description": "Complete solution for established businesses with advanced needs",
+      "cta": "Get Started",
+      "features": [
+        "Unlimited pages",
+        "E-commerce functionality",
+        "Custom features & integrations",
+        "Payment gateway setup",
+        "Priority 24/7 support",
+        "Ongoing maintenance & updates"
+      ]
+    },
+    "webDevelopment": {
+      "title": "Website Development",
+      "basic": ["Landing Page", "Mobile Responsive", "Contact Form", "Basic SEO"],
+      "business": ["Multi-page Website", "CMS Integration", "Advanced SEO", "Analytics Setup", "Social Media Links"],
+      "pro": ["E-commerce Website", "Custom Features", "Payment Integration", "Advanced Analytics", "Priority Support", "Ongoing Maintenance"]
+    },
+    "telegramBots": {
+      "title": "Telegram Bots",
+      "basic": ["Simple Order Bot", "Basic Commands", "Admin Panel"],
+      "business": ["Advanced Bot Features", "Payment Integration", "Notifications System", "Customer Database"],
+      "pro": ["Full CRM Integration", "AI-Powered Responses", "Analytics Dashboard", "Multi-language Support", "Custom Integrations"]
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "basic": ["Social Media Setup", "Content Plan (1 month)", "Basic SEO Audit"],
+      "business": ["Social Media Management (3 months)", "Content Creation", "SEO Optimization", "Monthly Reports"],
+      "pro": ["Full Marketing Strategy", "6-month Campaign", "Paid Advertising", "Influencer Outreach", "Advanced Analytics", "Dedicated Manager"]
+    },
+    "design": {
+      "title": "Graphic Design",
+      "basic": ["Logo Design (2 concepts)", "Business Card Design", "Source Files"],
+      "business": ["Full Brand Identity", "Logo Variations", "Social Media Templates", "Brand Guidelines"],
+      "pro": ["Complete Brand Package", "Animated Logo", "Marketing Materials", "Packaging Design", "Brand Strategy", "Unlimited Revisions"]
+    }
+  },
+  "about": {
+    "title": "About GetGrowth",
+    "description": "GetGrowth is a new digital agency helping small businesses grow online. We specialize in websites, Telegram bots, marketing, and design. Our mission is to provide high-quality, affordable solutions to help your business succeed in the digital world."
+  },
+  "cta": {
+    "title": "Ready to Grow Your Business?",
+    "subtitle": "Get in touch today and let's start your project.",
+    "contact": "Contact Us Now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "formTitle": "Send Us a Message",
+    "name": "Name",
+    "surname": "Surname",
+    "message": "Message",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully! We'll get back to you soon.",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "getInTouch": "Get In Touch"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Growing businesses online",
+    "followUs": "Follow Us"
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Take a look at some of our recent work for clients across various industries.",
+    "logos": {
+      "title": "Logo Designs"
+    },
+    "animations": {
+      "title": "Logo Animations",
+      "placeholder": "Video Coming Soon",
+      "videoTitle": "Logo Animation",
+      "description": "Animated logo reveal"
+    },
+    "posters": {
+      "title": "Posters & Menu Designs",
+      "placeholder": "Design Sample",
+      "projectTitle": "Design Project",
+      "description": "Poster / Menu Design"
+    },
+    "cta": {
+      "title": "Like What You See?",
+      "subtitle": "Let's create something amazing for your business too!",
+      "button": "Start Your Project"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tips and insights to help your small business grow online",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog",
+    "cta": {
+      "title": "Need Help With Your Website?",
+      "subtitle": "Let GetGrowth build your professional website and digital presence"
+    },
+    "post1": {
+      "title": "Why Website is Important for Small Businesses",
+      "excerpt": "Discover why having a professional website is essential for small businesses in today's digital world.",
+      "intro": "In today's digital world, having a professional website is no longer optional for small businesses — it's essential. A website serves as your online storefront, allowing potential customers to discover your services, learn about your brand, and take action, whether that's contacting you, placing an order, or subscribing to updates.",
+      "section1": {
+        "title": "1. Build Credibility and Trust",
+        "content": "A well-designed website instantly gives your business credibility. Customers are more likely to trust a company that has a professional online presence. Including your portfolio, testimonials, and clear service descriptions can reinforce trust and encourage engagement."
+      },
+      "section2": {
+        "title": "2. Reach a Larger Audience",
+        "content": "Unlike a physical store limited by location, a website allows your business to reach people anywhere in the world. With proper SEO and content marketing, your website can attract organic traffic from Google and other search engines, bringing in new customers continuously."
+      },
+      "section3": {
+        "title": "3. Promote Your Products and Services",
+        "content": "Your website is the perfect place to showcase your offerings. Small businesses can use dedicated service pages, portfolios, or product listings to highlight what makes them unique. You can also link to other pages on your site, like your",
+        "or": "or",
+        "end": ", to guide visitors and improve conversions."
+      },
+      "section4": {
+        "title": "4. Available 24/7",
+        "content": "A website never sleeps. Customers can find information about your business at any time, even outside of working hours. This continuous availability can lead to more inquiries, orders, and leads without extra effort from your team."
+      },
+      "section5": {
+        "title": "5. Cost-Effective Marketing",
+        "content": "Compared to traditional advertising, maintaining a website is cost-effective. It allows you to run campaigns, showcase promotions, and generate leads with a fraction of the cost of print, radio, or TV ads. Combine your website with social media, email marketing, or Telegram bots for even greater results."
+      },
+      "conclusion": {
+        "title": "Conclusion",
+        "content": "A website is the backbone of your online presence. It builds trust, expands your reach, promotes your services, and works for you 24/7. For small businesses looking to grow, investing in a professional website is one of the smartest decisions you can make."
+      },
+      "cta": "Ready to grow your business online?",
+      "ctaLink": "Contact GetGrowth today",
+      "ctaEnd": "to get a custom website and digital solutions tailored for your small business."
+    },
+    "post2": {
+      "title": "Step-by-Step Guide to Launch Your Business Website",
+      "excerpt": "Learn how to launch your business website in 7 simple steps, from planning to going live.",
+      "intro": "Launching a business website may seem intimidating, but with the right plan, it can be straightforward and rewarding. A website is the foundation of your online presence, helping you reach new customers, showcase your products or services, and grow your brand. If you want to understand why having a website is crucial, check out our",
+      "step1": {
+        "title": "Step 1: Define Your Website Goals",
+        "content": "Start by asking yourself what you want your website to achieve. Is it to generate leads, sell products, display a portfolio, or provide information about your services? Clear goals will guide the design and functionality of your site."
+      },
+      "step2": {
+        "title": "Step 2: Choose a Domain Name and Hosting",
+        "content": "Select a domain name that reflects your brand and is easy to remember. Pair it with a reliable hosting provider that ensures fast loading speeds and uptime. GetGrowth can help set up your domain and hosting quickly."
+      },
+      "step3": {
+        "title": "Step 3: Plan Your Website Structure",
+        "content": "Outline the pages you need: homepage, services, about, contact, and blog. Make sure your navigation is simple and intuitive for visitors."
+      },
+      "step4": {
+        "title": "Step 4: Design Your Website",
+        "content": "Choose a clean and professional design that reflects your brand. Focus on mobile responsiveness, easy navigation, and fast load times. Include visual elements such as logos, images, or posters from your",
+        "end": "to make your site engaging."
+      },
+      "step5": {
+        "title": "Step 5: Add Content and Optimize for SEO",
+        "content": "Write high-quality content for each page. Include your main keywords and related phrases naturally. Add meta titles, descriptions, and alt text for images. Linking to other blog posts can improve your website's SEO and help visitors navigate your content."
+      },
+      "step6": {
+        "title": "Step 6: Test and Launch",
+        "content": "Before going live, test your website on multiple devices and browsers. Check for broken links, typos, and usability issues. Once everything works smoothly, launch your website and share it on social media or via email newsletters."
+      },
+      "step7": {
+        "title": "Step 7: Monitor and Improve",
+        "content": "Use analytics tools to track visitors, conversions, and user behavior. Update your content regularly, add new blog posts, and improve your website based on feedback to continue growing your online presence."
+      },
+      "cta": "Ready to launch your website without hassle?",
+      "ctaLink": "Contact GetGrowth today",
+      "ctaEnd": "to get expert website creation, digital marketing, and support tailored for your small business."
+    },
+    "post3": {
+      "title": "How Telegram Food Ordering Bots Transform Small Restaurants",
+      "excerpt": "Learn why Telegram ordering systems are the cheapest, fastest, and most effective solution for small restaurants.",
+      "intro": "In today's fast-moving food industry, speed and simplicity are everything. Small restaurants and fast-food businesses often struggle with overwhelmed phone lines, lost orders, and delivery confusion. Telegram-based food ordering systems solve all these problems at once — and at a much lower cost than building a full mobile app.",
+      "section1": {
+        "title": "1. Telegram Is Already Familiar to Customers",
+        "content": "No need to download a new app — people simply tap 'Start' and begin ordering. This increases conversion and order frequency."
+      },
+      "section2": {
+        "title": "2. Automated Ordering Reduces Mistakes",
+        "content": "Customers select items from a visual menu, add them to a cart, choose payment type, and send correct delivery information. This eliminates:",
+        "point1": "Wrong orders",
+        "point2": "Incomplete addresses",
+        "point3": "Misunderstanding on the phone"
+      },
+      "section3": {
+        "title": "3. Faster Delivery & Better Workflow",
+        "content": "With a Telegram WebApp system:",
+        "point1": "Orders arrive instantly to the admin",
+        "point2": "Location pin is automatically sent",
+        "point3": "Order details are well-organized"
+      },
+      "section4": {
+        "title": "4. No Monthly Fees Like Food Delivery Apps",
+        "content": "Platforms like Glovo or Wolt take 25–35% commission. Telegram bots have zero commission, so your restaurant keeps all profit."
+      },
+      "section5": {
+        "title": "5. Works on Any Device",
+        "content": "Telegram bots work on:",
+        "point1": "iPhone",
+        "point2": "Android",
+        "point3": "Desktop",
+        "point4": "Tablet"
+      },
+      "section6": {
+        "title": "6. Professional Image for Small Restaurants",
+        "content": "A restaurant with an automated order system looks more modern and trustworthy. Customers prefer ordering from a business that offers quick and convenient service."
+      },
+      "conclusion": {
+        "title": "Conclusion",
+        "content": "A Telegram food ordering system is the cheapest, fastest, and most effective solution for small restaurants that want to automate their business. If you want a similar bot for your restaurant, contact GetGrowth Agency — we develop complete ordering systems with payment options, delivery forms, and admin dashboards."
+      },
+      "cta": "Want to see a real Telegram order bot in action?",
+      "ctaLink": "Check out our BekBurger case study",
+      "ctaEnd": "to learn how we automated their food ordering system."
+    }
+  },
+  "caseStudy": {
+    "title": "Client Success Story",
+    "subtitle": "See how we helped BekBurger automate their food ordering with a custom Telegram bot",
+    "projectTitle": "Fast Food Telegram Order Bot",
+    "clientName": "BekBurger (@bekburger1_bot)",
+    "testimonial": "GetGrowth built us a complete ordering system in Telegram. Now our customers can order directly through the bot with photos, choose payment methods, and we receive all orders instantly. No more phone confusion!",
+    "testimonialAuthor": "BekBurger Owner",
+    "featuresTitle": "Project Features",
+    "features": {
+      "menu": "Full product menu with images",
+      "cart": "Shopping cart system",
+      "payment": "Cash or card payment options",
+      "customerForm": "Customer details form (name, phone, address)",
+      "location": "Location pin for delivery",
+      "autoOrder": "Orders sent automatically to admin"
+    },
+    "tryDemo": "Try Live Demo Bot",
+    "ctaButton": "Get Your Bot Today"
+  },
+  "comments": {
+    "title": "What Our Visitors Say",
+    "subtitle": "Share your thoughts, ask questions, or leave feedback!",
+    "namePlaceholder": "Your name (optional)",
+    "commentPlaceholder": "Write your comment here...",
+    "submitButton": "Post Comment",
+    "submitting": "Posting...",
+    "replyButton": "Reply",
+    "cancelButton": "Cancel",
+    "likeButton": "Like",
+    "deleteButton": "Delete",
+    "deletePrompt": "Enter admin password to delete:",
+    "guestName": "Guest",
+    "justNow": "just now",
+    "minutesAgo": "min ago",
+    "hoursAgo": "hours ago",
+    "daysAgo": "days ago",
+    "noComments": "No comments yet. Be the first to share your thoughts!",
+    "totalComments": "Total comments"
+  }
+}

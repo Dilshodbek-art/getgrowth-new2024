@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://getgrowth.online
+
+# Sitemaps
+Sitemap: https://getgrowth.online/sitemap.xml
