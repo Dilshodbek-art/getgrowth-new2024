@@ -14,7 +14,7 @@ export default function PricingPage({ params }: { params: { lang: string } }) {
     {
       name: translations.pricing.basic.name,
       description: translations.pricing.basic.description,
-      monthlyPrice: '$40',
+      monthlyPrice: '$39',
       annualPrice: '$400',
       features: translations.pricing.basic.features,
       cta: translations.pricing.basic.cta,
