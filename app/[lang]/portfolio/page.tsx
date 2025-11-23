@@ -3,7 +3,6 @@ import dynamic from 'next/dynamic';
 import type { Metadata } from 'next';
 
 const AnimatedSection = dynamic(() => import('@/components/AnimatedSection'), { ssr: false });
-const CaseStudy = dynamic(() => import('@/components/CaseStudy'), { ssr: false });
 
 export async function generateMetadata({ params }: { params: { lang: string } }): Promise<Metadata> {
   const titles = {
@@ -76,11 +75,7 @@ export default function PortfolioPage({ params }: { params: { lang: string } }) 
   ];
 
   return (
-    <>
-      {/* Case Study Section at Top */}
-      <CaseStudy lang={params.lang} translations={translations} />
-
-      <div className="min-h-screen py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-purple-50 via-white to-blue-50">
+    <div className="min-h-screen py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-purple-50 via-white to-blue-50">
         <div className="max-w-7xl mx-auto">
           <AnimatedSection>
             <h1 className="text-5xl md:text-6xl font-bold text-center mb-6 gradient-text">
@@ -163,6 +158,5 @@ export default function PortfolioPage({ params }: { params: { lang: string } }) 
         </AnimatedSection>
         </div>
       </div>
-    </>
   );
 }
