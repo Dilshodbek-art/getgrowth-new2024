@@ -1,5 +1,28 @@
 import { getTranslations } from '@/lib/i18n';
 import Link from 'next/link';
+import type { Metadata } from 'next';
+
+export async function generateMetadata({ params }: { params: { lang: string } }): Promise<Metadata> {
+  const titles = {
+    en: 'Why Every Business Needs a Website in 2025 | GetGrowth',
+    ru: 'Почему каждому бизнесу нужен сайт в 2025 году | GetGrowth',
+    uz: '2025-yilda har bir biznesga veb-sayt nima uchun kerak | GetGrowth'
+  };
+  
+  const descriptions = {
+    en: 'Discover why having a website is essential for business growth in 2025. Learn about credibility, online presence, customer reach, and marketing opportunities.',
+    ru: 'Узнайте, почему наличие сайта необходимо для роста бизнеса в 2025 году. Узнайте о доверии, онлайн-присутствии, охвате клиентов и маркетинговых возможностях.',
+    uz: '2025-yilda veb-sayt biznes o\'sishi uchun nima uchun zarurligini bilib oling. Ishonch, onlayn mavjudlik, mijozlarni qamrab olish va marketing imkoniyatlari haqida bilib oling.'
+  };
+
+  return {
+    title: titles[params.lang as keyof typeof titles] || titles.en,
+    description: descriptions[params.lang as keyof typeof descriptions] || descriptions.en,
+    alternates: {
+      canonical: `https://getgrowth.online/${params.lang}/blog/why-website-is-important`,
+    },
+  };
+}
 
 export default function BlogPost({ params }: { params: { lang: string } }) {
   const translations = getTranslations(params.lang);

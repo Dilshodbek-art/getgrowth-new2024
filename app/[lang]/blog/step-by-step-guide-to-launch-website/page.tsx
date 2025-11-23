@@ -1,5 +1,28 @@
 import { getTranslations } from '@/lib/i18n';
 import Link from 'next/link';
+import type { Metadata } from 'next';
+
+export async function generateMetadata({ params }: { params: { lang: string } }): Promise<Metadata> {
+  const titles = {
+    en: 'Step-by-Step Guide to Launch Your Business Website | GetGrowth',
+    ru: 'Пошаговое руководство по запуску сайта вашего бизнеса | GetGrowth',
+    uz: 'Biznes veb-saytingizni ishga tushirish bo\'yicha qadam-baqadam qo\'llanma | GetGrowth'
+  };
+  
+  const descriptions = {
+    en: 'Complete guide to launching your business website from planning to deployment. Learn domain setup, design, development, content creation, and SEO optimization.',
+    ru: 'Полное руководство по запуску сайта вашего бизнеса от планирования до развёртывания. Узнайте о настройке домена, дизайне, разработке, создании контента и SEO-оптимизации.',
+    uz: 'Biznes veb-saytingizni rejalashtirshdan joriy qilishgacha to\'liq qo\'llanma. Domen sozlash, dizayn, ishlab chiqish, kontent yaratish va SEO optimallashtirishni o\'rganing.'
+  };
+
+  return {
+    title: titles[params.lang as keyof typeof titles] || titles.en,
+    description: descriptions[params.lang as keyof typeof descriptions] || descriptions.en,
+    alternates: {
+      canonical: `https://getgrowth.online/${params.lang}/blog/step-by-step-guide-to-launch-website`,
+    },
+  };
+}
 
 export default function BlogPost({ params }: { params: { lang: string } }) {
   const translations = getTranslations(params.lang);
