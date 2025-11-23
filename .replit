@@ -77,6 +77,10 @@ localPort = 39081
 externalPort = 3001
 
 [[ports]]
+localPort = 41037
+externalPort = 5173
+
+[[ports]]
 localPort = 43881
 externalPort = 3002
 
@@ -92,3 +96,5 @@ DATABASE_URL = "postgresql://postgres.eyeyvrqchksejvgegvrq:794269771Qwerty@aws-1
 NEXT_PUBLIC_SUPABASE_URL = "https://eyeyvrqchksejvgegvrq.supabase.co"
 NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV5ZXl2cnFjaGtzZWp2Z2VndnJxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM3OTE0NjEsImV4cCI6MjA3OTM2NzQ2MX0._h7MTxQLv22o6BHb9atUtPaysUNN1LIvvpY5EFEXyIo"
 ADMIN_PASSWORD = "GetGrowth2024!Admin"
+BOT_TOKEN = "8348628455:AAFOBH5VZpqdoyjc5g1niNqSCR7oAzTQ53w"
+CHAT_ID = "5451190728"

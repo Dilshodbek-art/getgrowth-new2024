@@ -12,8 +12,8 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const botToken = process.env.TELEGRAM_BOT_TOKEN;
-    const chatId = process.env.TELEGRAM_CHAT_ID;
+    const botToken = process.env.BOT_TOKEN;
+    const chatId = process.env.CHAT_ID;
 
     if (!botToken || !chatId) {
       console.error('Missing Telegram credentials');
