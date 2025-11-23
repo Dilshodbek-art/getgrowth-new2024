@@ -1,8 +1,6 @@
 import { getTranslations } from '@/lib/i18n';
-import dynamic from 'next/dynamic';
+import AnimatedSection from '@/components/AnimatedSection';
 import type { Metadata } from 'next';
-
-const AnimatedSection = dynamic(() => import('@/components/AnimatedSection'), { ssr: false });
 
 export async function generateMetadata({ params }: { params: { lang: string } }): Promise<Metadata> {
   const titles = {

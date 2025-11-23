@@ -7,6 +7,11 @@ const defaultLanguage = 'en';
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
 
+  // Skip middleware for files with extensions (static assets)
+  if (pathname.match(/\.(jpg|jpeg|png|gif|svg|webp|ico|css|js|woff|woff2|ttf|eot)$/)) {
+    return;
+  }
+
   // Check if pathname already has a language
   const pathnameHasLocale = supportedLanguages.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
@@ -24,5 +29,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ['/((?!api|_next/static|_next/image|favicon.ico|portfolio).*)'],
+  matcher: ['/((?!api|_next/static|_next/image|sitemap|robots).*)'],
 };
