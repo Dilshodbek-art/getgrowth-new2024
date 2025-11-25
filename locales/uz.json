@@ -9,6 +9,117 @@
     "about": "Biz haqimizda",
     "contact": "Aloqa"
   },
+  "home": {
+    "hero": {
+      "title": "Biznesingizni Onlayn O'stirishga Yordam Beramiz",
+      "subtitle": "Ajoyib Dizayn va Marketing Bilan",
+      "description": "Mijozlarni jalb qilish va biznesingizni rivojlantirish uchun professional brending, animatsiya, veb-saytlar va ijtimoiy tarmoq kontenti oling.",
+      "cta1": "Xizmatlarimizni Ko'rish",
+      "cta2": "Bog'lanish"
+    },
+    "servicesSection": {
+      "title": "Biz Nima Qilamiz",
+      "subtitle": "Onlayn mavjudligingizni yaratish va rivojlantirish uchun kerak bo'lgan hamma narsa",
+      "cta": "Xizmatlarimiz Haqida Batafsil"
+    },
+    "services": {
+      "branding": {
+        "title": "Logo va Brending",
+        "description": "Professional logotiplar va vizual brend bilan esda qolarli brend identifikatsiyasini yarating."
+      },
+      "animation": {
+        "title": "Moushon Grafika va Animatsiya",
+        "description": "Animatsiyali logotiplar, tushuntiruvchi videolar va ijtimoiy tarmoq animatsiyalari bilan auditoriyangizni jalb qiling."
+      },
+      "website": {
+        "title": "Veb-sayt Dizayni",
+        "description": "Biznesingizga moslashtirilgan zamonaviy, moslashuvchan va SEO-optimallashtirilgan veb-saytlar."
+      },
+      "social": {
+        "title": "Ijtimoiy Tarmoq Kontenti",
+        "description": "Onlayn mavjudligingizni oshirish uchun diqqatni tortadigan postlar, rilslar va reklamalar."
+      }
+    },
+    "pricingTeaser": {
+      "title": "Sifatli Ish Uchun Arzon Narxlar",
+      "subtitle": "Byudjetingizga mos boshlang'ich narxlar",
+      "logo": "Logo Dizayni",
+      "animation": "Logo Animatsiyasi",
+      "website": "Veb-sayt Ishlab Chiqish",
+      "startingFrom": "dan boshlab",
+      "note": "To'liq narxlar va maxsus paketlar uchun biz bilan bog'laning.",
+      "cta": "Barcha Narxlarni Ko'rish"
+    },
+    "whyChoose": {
+      "title": "Nega GetGrowth?",
+      "subtitle": "Biz biznesingiz onlayn muvaffaqiyatga erishishiga bag'ishlanganmiz"
+    },
+    "value": {
+      "fast": {
+        "title": "Tez Yetkazib Berish",
+        "description": "Biz yuqori sifatli natijalarni o'z vaqtida yetkazamiz."
+      },
+      "affordable": {
+        "title": "Arzon Narxlar",
+        "description": "Hamyonni bo'shatmaydigan professional xizmatlar."
+      },
+      "allInOne": {
+        "title": "Hammasi Bir Joyda",
+        "description": "Dizayn, animatsiya, veb va marketing bir agentlikda."
+      },
+      "custom": {
+        "title": "Maxsus Yechimlar",
+        "description": "Biznesingiz ehtiyojlariga moslashtirilgan strategiyalar."
+      }
+    },
+    "portfolioPreview": {
+      "title": "Bizning So'nggi Ishlar",
+      "subtitle": "Eng so'nggi loyihalarimizga bir nazar tashlang",
+      "cta": "To'liq Portfolioni Ko'rish"
+    },
+    "portfolio": {
+      "item1": {
+        "title": "Jarvis Repairs",
+        "category": "Logo Dizayni"
+      },
+      "item2": {
+        "title": "Pacific Calm",
+        "category": "Brend Identifikatsiyasi"
+      },
+      "item3": {
+        "title": "Restoran Posteri",
+        "category": "Marketing Dizayni"
+      }
+    },
+    "processSection": {
+      "title": "Qanday Ishlaymiz",
+      "subtitle": "G'oyalaringizni hayotga tatbiq etish uchun oddiy jarayon"
+    },
+    "process": {
+      "step1": {
+        "title": "Aloqa",
+        "description": "Bog'laning va loyihangiz haqida gapiring"
+      },
+      "step2": {
+        "title": "Rejalashtirish",
+        "description": "Biz strategiya va dizayn kontseptsiyalarini yaratamiz"
+      },
+      "step3": {
+        "title": "Ishlab Chiqish",
+        "description": "Sizning tasavvuringizni hayotga tatbiq etamiz"
+      },
+      "step4": {
+        "title": "Ishga Tushirish va Qo'llab-quvvatlash",
+        "description": "Doimiy yordam bilan jonli efirga chiqing"
+      }
+    },
+    "bottomCta": {
+      "title": "Biznesingizni O'stirishga Tayyormisiz?",
+      "subtitle": "Keling, birgalikda ajoyib narsa yarataylik. Bog'laning va loyihangizni bugun boshlang.",
+      "cta": "Bog'lanish",
+      "telegram": "Telegram'da Yozish"
+    }
+  },
   "hero": {
     "title": "Kichik Bizneslarni Onlayn O'stiramiz",
     "subtitle": "Veb-saytlar, Telegram Botlar, Marketing va Grafik Dizayn — Hammasi Bir Joyda",

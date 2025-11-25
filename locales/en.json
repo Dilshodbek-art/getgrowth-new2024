@@ -9,6 +9,117 @@
     "about": "About",
     "contact": "Contact"
   },
+  "home": {
+    "hero": {
+      "title": "We Help Businesses Grow Online",
+      "subtitle": "with Stunning Design & Marketing",
+      "description": "Get professional branding, animations, websites, and social media content to attract customers and grow your business.",
+      "cta1": "See Our Services",
+      "cta2": "Contact Us"
+    },
+    "servicesSection": {
+      "title": "What We Do",
+      "subtitle": "Everything you need to establish and grow your online presence",
+      "cta": "Learn More About Our Services"
+    },
+    "services": {
+      "branding": {
+        "title": "Logo & Branding",
+        "description": "Create a memorable brand identity with professional logos and brand visuals."
+      },
+      "animation": {
+        "title": "Motion Graphics & Animation",
+        "description": "Engage your audience with animated logos, explainer videos, and social media animations."
+      },
+      "website": {
+        "title": "Website Design",
+        "description": "Modern, responsive, and SEO-friendly websites tailored to your business."
+      },
+      "social": {
+        "title": "Social Media Content",
+        "description": "Eye-catching posts, reels, and ads to boost your online presence."
+      }
+    },
+    "pricingTeaser": {
+      "title": "Affordable Prices for Quality Work",
+      "subtitle": "Starting prices that fit your budget",
+      "logo": "Logo Design",
+      "animation": "Logo Animation",
+      "website": "Website Development",
+      "startingFrom": "starting from",
+      "note": "Contact us for full pricing and custom packages.",
+      "cta": "View Full Pricing"
+    },
+    "whyChoose": {
+      "title": "Why Choose GetGrowth?",
+      "subtitle": "We're dedicated to helping your business succeed online"
+    },
+    "value": {
+      "fast": {
+        "title": "Fast Delivery",
+        "description": "We deliver high-quality results on time."
+      },
+      "affordable": {
+        "title": "Affordable Pricing",
+        "description": "Professional services without breaking the bank."
+      },
+      "allInOne": {
+        "title": "All-in-One",
+        "description": "Design, animation, web, and marketing handled in one place."
+      },
+      "custom": {
+        "title": "Custom Solutions",
+        "description": "Tailored strategies for your business needs."
+      }
+    },
+    "portfolioPreview": {
+      "title": "Our Recent Work",
+      "subtitle": "Take a look at some of our latest projects",
+      "cta": "See Full Portfolio"
+    },
+    "portfolio": {
+      "item1": {
+        "title": "Jarvis Repairs",
+        "category": "Logo Design"
+      },
+      "item2": {
+        "title": "Pacific Calm",
+        "category": "Brand Identity"
+      },
+      "item3": {
+        "title": "Restaurant Poster",
+        "category": "Marketing Design"
+      }
+    },
+    "processSection": {
+      "title": "How We Work",
+      "subtitle": "A simple process to bring your ideas to life"
+    },
+    "process": {
+      "step1": {
+        "title": "Contact",
+        "description": "Reach out and tell us about your project"
+      },
+      "step2": {
+        "title": "Plan & Design",
+        "description": "We create a strategy and design concepts"
+      },
+      "step3": {
+        "title": "Build & Deliver",
+        "description": "We bring your vision to life"
+      },
+      "step4": {
+        "title": "Launch & Support",
+        "description": "Go live with ongoing assistance"
+      }
+    },
+    "bottomCta": {
+      "title": "Ready to Grow Your Business?",
+      "subtitle": "Let's create something amazing together. Get in touch and start your project today.",
+      "cta": "Get in Touch",
+      "telegram": "Chat on Telegram"
+    }
+  },
   "hero": {
     "title": "Helping Small Businesses Grow Online",
     "subtitle": "Websites, Telegram Bots, Marketing, and Graphic Design — All in One Place",
