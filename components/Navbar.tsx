@@ -28,6 +28,9 @@ export default function Navbar({ lang, translations }: NavbarProps) {
             <Link href={`/${lang}/services`} className="text-gray-700 hover:text-purple-600 transition">
               {translations.nav.services}
             </Link>
+            <Link href={`/${lang}/portfolio`} className="text-gray-700 hover:text-purple-600 transition">
+              {translations.nav.portfolio}
+            </Link>
             <Link href={`/${lang}/comments`} className="text-gray-700 hover:text-purple-600 transition">
               {translations.nav.comments}
             </Link>
@@ -72,6 +75,9 @@ export default function Navbar({ lang, translations }: NavbarProps) {
             </Link>
             <Link href={`/${lang}/services`} className="block text-gray-700 hover:text-purple-600 py-2">
               {translations.nav.services}
+            </Link>
+            <Link href={`/${lang}/portfolio`} className="block text-gray-700 hover:text-purple-600 py-2">
+              {translations.nav.portfolio}
             </Link>
             <Link href={`/${lang}/comments`} className="block text-gray-700 hover:text-purple-600 py-2">
               {translations.nav.comments}

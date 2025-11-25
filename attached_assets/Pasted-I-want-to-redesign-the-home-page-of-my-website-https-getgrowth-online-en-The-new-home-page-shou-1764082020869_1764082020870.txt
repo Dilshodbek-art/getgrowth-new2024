@@ -1,0 +1,52 @@
+I want to redesign the home page of my website (https://getgrowth.online/en). The new home page should be visually engaging, professional, and different from the Services page. Do NOT include testimonials yet. Include the following sections with suggested content and structure:
+
+1️⃣ Hero Section
+- Headline: "We Help Businesses Grow Online with Stunning Design & Marketing"
+- Subheadline: "Get professional branding, animations, websites, and social media content to attract customers and grow your business."
+- CTA buttons: "See Our Services" (links to Services page) and "Contact Us" (scrolls to contact form)
+- Visual: subtle logo animation or relevant hero image
+
+2️⃣ Key Services Overview (short summary, teaser only)
+- Include 4 services:
+  1. Logo & Branding — "Create a memorable brand identity with professional logos and brand visuals."
+  2. Motion Graphics & Animation — "Engage your audience with animated logos, explainer videos, and social media animations."
+  3. Website Design — "Modern, responsive, and SEO-friendly websites tailored to your business."
+  4. Social Media Content — "Eye-catching posts, reels, and ads to boost your online presence."
+- Each service should have an icon or small image, 1–2 sentence description, and optional "Learn More" button linking to Services page.
+
+3️⃣ Pricing Teaser (below services, slightly lower)
+- Show 2–3 example starting prices, lower than full service page prices:
+  - Logo Design — starting at $50
+  - Logo Animation — starting at $30
+  - Website Development — starting at $150
+- Include a note: "Contact us for full pricing and custom packages."
+
+4️⃣ Why Choose Us / Value Proposition
+- Highlight in 3–4 visual cards:
+  - Fast Delivery — "We deliver high-quality results on time."
+  - Affordable Pricing — "Professional services without breaking the bank."
+  - All-in-One — "Design, animation, web, and marketing handled in one place."
+  - Custom Solutions — "Tailored strategies for your business needs."
+
+5️⃣ Portfolio / Showcase Preview
+- Show 2–3 key works (logos, animations, website screenshots)
+- Each with hover effect or small description
+- CTA: "See Full Portfolio" linking to Services/Portfolio page
+
+6️⃣ Process / How We Work
+- 3–4 steps with icons:
+  1. Contact
+  2. Plan & Design
+  3. Build & Deliver
+  4. Launch & Support
+
+7️⃣ Bottom CTA / Contact Section
+- Headline: "Ready to Grow Your Business?"
+- Button: "Get in Touch" linking to contact form
+
+Additional Notes:
+- Make home page visually dynamic with bright visuals, icons, and subtle animations.
+- Keep text concise and clear, avoid copying the full Services page.
+- Structure the page in Next.js format ready to drop into the current project.
+
+Please generate the code for the full home page based on this structure, including all sections, sample content, pricing teaser, and placeholders for images/icons.
