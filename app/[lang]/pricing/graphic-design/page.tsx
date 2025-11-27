@@ -164,7 +164,7 @@ export default function GraphicDesignPricingPage({ params }: { params: { lang: s
                     <div className="mb-4">
                       <h4 className="font-semibold text-gray-800 mb-2">{t.whatsIncluded || "What's Included:"}</h4>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
-                        {service.includes.map((item, itemIndex) => (
+                        {service.includes.map((item: string, itemIndex: number) => (
                           <div key={itemIndex} className="flex items-center gap-2">
                             <svg className="w-5 h-5 text-purple-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />

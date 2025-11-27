@@ -118,7 +118,7 @@ export default function MarketingServicesPage({ params }: { params: { lang: stri
                     <h2 className="text-2xl font-bold mb-3 text-gray-800">{service.title}</h2>
                     <p className="text-gray-600 mb-4">{service.description}</p>
                     <div className="flex flex-wrap gap-2">
-                      {service.features.map((feature, featureIndex) => (
+                      {service.features.map((feature: string, featureIndex: number) => (
                         <span
                           key={featureIndex}
                           className="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-sm"

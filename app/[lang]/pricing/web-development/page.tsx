@@ -182,7 +182,7 @@ export default function WebDevelopmentPricingPage({ params }: { params: { lang: 
                     {plan.description}
                   </p>
                   <ul className="space-y-3 mb-8">
-                    {plan.features.map((feature, featureIndex) => (
+                    {plan.features.map((feature: string, featureIndex: number) => (
                       <li key={featureIndex} className="flex items-start gap-2">
                         <svg
                           className={`w-5 h-5 flex-shrink-0 mt-0.5 ${plan.highlighted ? 'text-purple-200' : 'text-purple-600'}`}
@@ -229,7 +229,7 @@ export default function WebDevelopmentPricingPage({ params }: { params: { lang: 
                   </div>
                   <p className="mb-6 text-gray-600">{plan.description}</p>
                   <ul className="space-y-3 mb-8">
-                    {plan.features.map((feature, featureIndex) => (
+                    {plan.features.map((feature: string, featureIndex: number) => (
                       <li key={featureIndex} className="flex items-start gap-2">
                         <svg className="w-5 h-5 flex-shrink-0 mt-0.5 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />

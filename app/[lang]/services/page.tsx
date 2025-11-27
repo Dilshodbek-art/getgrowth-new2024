@@ -102,7 +102,7 @@ export default function ServicesPage({ params }: { params: { lang: string } }) {
                       {category.description}
                     </p>
                     <div className="flex flex-wrap gap-3 mb-8">
-                      {category.features.map((feature, featureIndex) => (
+                      {category.features.map((feature: string, featureIndex: number) => (
                         <span
                           key={featureIndex}
                           className="px-4 py-2 bg-purple-100 text-purple-700 rounded-full text-sm font-medium"
