@@ -351,49 +351,60 @@
     "ctaDescription": "Shaxsiy narx hisob-kitobi uchun biz bilan bog'laning.",
     "ctaButton": "Hisob-kitob olish",
     "webDev": {
-      "title": "Veb-ishlab chiqish va Yechimlar",
+      "title": "Veb-ishlab chiqish narxlari",
       "startingPrice": "$19",
       "priceLabel": "/oy",
       "highlight": "$19/oydan boshlanadigan sayt rejalari",
       "description": "Saytlar va Telegram botlar uchun arzon oylik rejalar. Yashirin to'lovlar yo'q.",
-      "features": ["Oylik sayt rejalari", "Telegram botlar", "Veb-ilovalar", "Maxsus yechimlar", "Doimiy qo'llab-quvvatlash"]
-    },
-    "marketing": {
-      "title": "Marketing",
-      "startingPrice": "Maxsus",
-      "priceLabel": "",
-      "highlight": "SEO, ijtimoiy tarmoqlar, reklama va boshqalar",
-      "description": "Biznes maqsadlaringiz va byudjetingizga moslashtirilgan marketing yechimlari.",
-      "features": ["SEO optimallashtirish", "Ijtimoiy tarmoq marketingi", "Pullik reklama", "Kontent yaratish", "Brend strategiyasi"]
-    },
-    "design": {
-      "title": "Grafik Dizayn",
-      "startingPrice": "Maxsus",
-      "priceLabel": "",
-      "highlight": "Logolar, brending, animatsiya va boshqalar",
-      "description": "Loyihangiz talablariga asoslangan maxsus narxli professional dizayn xizmatlari.",
-      "features": ["Logo dizayni", "Brending", "Bosma dizayn", "Ijtimoiy tarmoq grafikasi", "Animatsiya"],
-      "backToPricing": "Narxlarga qaytish",
-      "whatsIncluded": "Nimalar kiradi:",
-      "customPricing": "Maxsus narx",
-      "requestPrice": "Narx so'rash",
-      "ctaTitle": "Ajoyib narsa yaratishga tayyormisiz?",
-      "ctaDescription": "Loyihangiz haqida gapiring, biz maxsus taklif tayyorlaymiz."
-    },
-    "webDevPage": {
-      "title": "Veb-ishlab chiqish narxlari",
+      "features": ["Oylik sayt rejalari", "Telegram botlar", "Veb-ilovalar", "Maxsus yechimlar", "Doimiy qo'llab-quvvatlash"],
       "subtitle": "Saytlar va Telegram botlar uchun arzon oylik rejalar. Yashirin to'lovlar yo'q.",
       "backToPricing": "Narxlarga qaytish",
       "websitePlansTitle": "Sayt rejalari",
       "botPlansTitle": "Telegram Botlar va Veb-ilovalar",
       "popular": "Mashhur",
       "getStarted": "Boshlash",
+      "perMonth": "/oy",
       "customTitle": "Maxsus yechim kerakmi?",
       "customDescription": "Noyob loyihangiz bormi? Biz sizning ehtiyojlaringizga moslashtirilgan maxsus veb-ilovalar yaratamiz.",
-      "contactUs": "Hisob-kitob uchun bog'laning"
+      "contactUs": "Hisob-kitob uchun bog'laning",
+      "starter": {
+        "name": "Boshlang'ich",
+        "description": "Onlayn faoliyatni boshlayotgan kichik biznes uchun ideal.",
+        "features": ["Bir sahifali sayt", "Mobil moslashuvchan dizayn", "Asosiy SEO sozlash", "Aloqa formasi", "Oylik yangilanishlar (2 soat)", "Email orqali qo'llab-quvvatlash"]
+      },
+      "standard": {
+        "name": "Standart",
+        "description": "Ko'proq funksiyalar kerak bo'lgan o'sayotgan biznes uchun ajoyib.",
+        "features": ["5 ta sahifagacha", "Mobil moslashuvchan dizayn", "Kengaytirilgan SEO optimallashtirish", "Aloqa formasi + Jonli chat", "Oylik yangilanishlar (4 soat)", "Ustuvor email qo'llab-quvvatlash", "Asosiy analitika", "Ijtimoiy tarmoq integratsiyasi"]
+      },
+      "pro": {
+        "name": "Professional",
+        "description": "To'liq onlayn mavjudlik kerak bo'lgan biznes uchun.",
+        "features": ["10 ta sahifagacha", "Mobil moslashuvchan dizayn", "To'liq SEO paketi", "Forma + Chat + Bron qilish", "Oylik yangilanishlar (8 soat)", "Ustuvor telefon va email qo'llab-quvvatlash", "Kengaytirilgan analitika", "Ijtimoiy tarmoq integratsiyasi", "Blog sozlash", "E-tijoratga tayyor"]
+      },
+      "botStarter": {
+        "name": "Boshlang'ich",
+        "description": "Asosiy avtomatlashtirish uchun oddiy bot.",
+        "features": ["Asosiy buyurtma/bron tizimi", "Mijozlarga xabarlar", "Oyiga 100 ta buyurtmagacha", "Email orqali qo'llab-quvvatlash"]
+      },
+      "botStandard": {
+        "name": "Standart",
+        "description": "Ko'proq funksiyalar va sig'imga ega kengaytirilgan bot.",
+        "features": ["Kengaytirilgan buyurtma boshqaruvi", "Mijozlarga xabarlar", "Oyiga 500 ta buyurtmagacha", "Menyu/katalog boshqaruvi", "Ustuvor qo'llab-quvvatlash", "Asosiy analitika"]
+      },
+      "botPro": {
+        "name": "Professional",
+        "description": "Katta hajmli biznes uchun to'liq funksiyali bot.",
+        "features": ["To'liq buyurtma tizimi", "Cheksiz buyurtmalar", "To'lov integratsiyasi", "Kengaytirilgan analitika", "Ko'p administrator kirishi", "API integratsiyalari", "Ustuvor telefon qo'llab-quvvatlash", "Maxsus funksiyalar"]
+      }
     },
-    "marketingPage": {
+    "marketing": {
       "title": "Marketing narxlari",
+      "startingPrice": "Maxsus",
+      "priceLabel": "",
+      "highlight": "SEO, ijtimoiy tarmoqlar, reklama va boshqalar",
+      "description": "Biznes maqsadlaringiz va byudjetingizga moslashtirilgan marketing yechimlari.",
+      "features": ["SEO optimallashtirish", "Ijtimoiy tarmoq marketingi", "Pullik reklama", "Kontent yaratish", "Brend strategiyasi"],
       "subtitle": "Biznes maqsadlaringiz va byudjetingizga moslashtirilgan marketing yechimlari.",
       "backToPricing": "Narxlarga qaytish",
       "customNote": "Barcha marketing xizmatlari maqsadlaringizga asoslangan maxsus narxlanadi.",
@@ -401,7 +412,73 @@
       "customPricing": "Maxsus narx",
       "getQuote": "Hisob-kitob olish",
       "ctaTitle": "Biznesingizni rivojlantirishga tayyormisiz?",
-      "ctaDescription": "Marketing maqsadlaringizni muhokama qilamiz va byudjetingizga mos strategiya yaratamiz."
+      "ctaDescription": "Marketing maqsadlaringizni muhokama qilamiz va byudjetingizga mos strategiya yaratamiz.",
+      "seo": {
+        "title": "SEO Optimallashtirish",
+        "description": "Qidiruv tizimlarida reytingingizni oshiring va organik trafik jalb qiling.",
+        "includes": ["Texnik SEO audit va tuzatishlar", "Sahifa ichidagi optimallashtirish", "Kontent strategiyasi va yaratish", "Kalit so'zlar tadqiqoti", "Link qurish", "Oylik hisobotlar"]
+      },
+      "smm": {
+        "title": "Ijtimoiy Tarmoq Marketingi",
+        "description": "Brend mavjudligini yarating va ijtimoiy platformalarda auditoriya bilan aloqa qiling.",
+        "includes": ["Kontent taqvimi va strategiyasi", "Post yaratish va rejalashtirish", "Jamiyat boshqaruvi", "Jalb qilish strategiyalari", "Obunachilar o'sish taktikalari", "Samaradorlik analitikasi"]
+      },
+      "advertising": {
+        "title": "Pullik Reklama",
+        "description": "Strategik reklama kampaniyalari bilan maqsadli auditoriyaga yeting.",
+        "includes": ["Meta Ads (Facebook va Instagram)", "TikTok Ads", "Google Ads", "Kampaniya strategiyasi va sozlash", "Reklama kreativlari dizayni", "A/B test va optimallashtirish", "ROI kuzatuvi va hisobotlar"]
+      },
+      "content": {
+        "title": "Kontent Yaratish",
+        "description": "Konversiya qiladigan sifatli kontent bilan auditoriyani jalb qiling.",
+        "includes": ["Blog maqolalari", "Video kontent", "Kopiraytning", "Email marketing kampaniyalari", "Infografikalar", "Keyslar"]
+      },
+      "brandStrategy": {
+        "title": "Brend Strategiyasi",
+        "description": "Maqsadli bozoringizga mos keladigan kuchli brend identifikatsiyasini ishlab chiqing.",
+        "includes": ["Bozor tadqiqoti", "Raqobatchi tahlili", "Brend pozitsiyalash", "Xabar strategiyasi", "Brend yo'riqnomasi", "Bozorga chiqish strategiyasi"]
+      }
+    },
+    "design": {
+      "title": "Grafik Dizayn narxlari",
+      "startingPrice": "Maxsus",
+      "priceLabel": "",
+      "highlight": "Logolar, brending, animatsiya va boshqalar",
+      "description": "Loyihangiz talablariga asoslangan maxsus narxli professional dizayn xizmatlari.",
+      "features": ["Logo dizayni", "Brending", "Bosma dizayn", "Ijtimoiy tarmoq grafikasi", "Animatsiya"],
+      "subtitle": "Brendingiz va byudjetingizga moslashtirilgan professional dizayn xizmatlari.",
+      "backToPricing": "Narxlarga qaytish",
+      "customNote": "Barcha dizayn xizmatlari loyiha hajmiga asoslangan maxsus narxlanadi.",
+      "whatsIncluded": "Nimalar kiradi:",
+      "customPricing": "Maxsus narx",
+      "requestPrice": "Narx so'rash",
+      "ctaTitle": "Ajoyib narsa yaratishga tayyormisiz?",
+      "ctaDescription": "Loyihangiz haqida gapiring, biz maxsus taklif tayyorlaymiz.",
+      "logoDesign": {
+        "title": "Logo Dizayni",
+        "description": "Brendingizni ifodalovchi noyob va esda qolarli logo yarating.",
+        "includes": ["3+ dastlabki konseptsiyalar", "Cheksiz tuzatishlar", "Barcha fayl formatlari (AI, EPS, PNG, SVG, PDF)", "Oq-qora versiyalar", "Ijtimoiy tarmoq uchun optimallashtirilgan versiyalar", "To'liq mulkchilik huquqlari"]
+      },
+      "branding": {
+        "title": "Brending Paketi",
+        "description": "Biznesingiz uchun to'liq brend identifikatsiya tizimi.",
+        "includes": ["Variantlar bilan logo dizayni", "Rang palitrasi", "Tipografiya tanlash", "Brend yo'riqnomasi hujjati", "Vizitka dizayni", "Blanka va konvert dizayni", "Ijtimoiy tarmoq to'plami"]
+      },
+      "posters": {
+        "title": "Posterlar va Bosma Dizayn",
+        "description": "Tadbirlar va marketing uchun diqqatni tortadigan bosma materiallar.",
+        "includes": ["Tadbir posterlari", "Reklama flayerlari", "Broshyuralar va kataloglar", "Vizitkalar", "Menyu dizayni", "Bosishga tayyor fayllar"]
+      },
+      "socialMedia": {
+        "title": "Ijtimoiy Tarmoq Dizayni",
+        "description": "Ijtimoiy tarmoq mavjudligingiz uchun professional grafikalar.",
+        "includes": ["Post shablonlari", "Story shablonlari", "Qopqoq rasmlari", "Profil rasmlari", "Reklama kreativlari", "Xaylayt qopqoqlari"]
+      },
+      "animations": {
+        "title": "Animatsiya",
+        "description": "Brendingizni motion grafikalar bilan jonlantiring.",
+        "includes": ["Logo animatsiyalari", "Ijtimoiy tarmoq animatsiyalari", "Motion grafikalar", "Video intro/outrolar", "Tushuntiruvchi video elementlari", "GIF va qisqa videolar"]
+      }
     }
   },
   "testimonialsPage": {

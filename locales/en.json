@@ -585,111 +585,60 @@
     "ctaDescription": "Contact us for a personalized quote tailored to your specific needs.",
     "ctaButton": "Get Custom Quote",
     "webDev": {
-      "title": "Web Development & Solutions",
+      "title": "Web Development Pricing",
       "startingPrice": "$19",
       "priceLabel": "/month",
       "highlight": "Website plans starting from $19/month",
       "description": "Affordable monthly plans for websites and Telegram bots. No hidden fees.",
-      "features": ["Monthly website plans", "Telegram bots", "Web applications", "Custom solutions", "Ongoing support"]
-    },
-    "marketing": {
-      "title": "Marketing",
-      "startingPrice": "Custom",
-      "priceLabel": " pricing",
-      "highlight": "SEO, Social Media, Advertising & More",
-      "description": "Custom marketing solutions tailored to your business goals and budget.",
-      "features": ["SEO optimization", "Social media marketing", "Paid advertising", "Content creation", "Brand strategy"]
-    },
-    "design": {
-      "title": "Graphic Design",
-      "startingPrice": "Custom",
-      "priceLabel": " pricing",
-      "highlight": "Logos, Branding, Animations & More",
-      "description": "Professional design services custom-priced based on your project needs.",
-      "features": ["Logo design", "Branding packages", "Print design", "Social media graphics", "Animations"],
-      "backToPricing": "Back to Pricing",
-      "whatsIncluded": "What's Included:",
-      "customPricing": "Custom Pricing",
-      "requestPrice": "Request Price",
-      "ctaTitle": "Ready to Create Something Amazing?",
-      "ctaDescription": "Tell us about your project and we'll provide a custom quote tailored to your needs.",
-      "logoDesign": {
-        "title": "Logo Design",
-        "description": "Create a unique and memorable logo that represents your brand."
-      },
-      "branding": {
-        "title": "Branding Package",
-        "description": "Complete brand identity system for your business."
-      },
-      "posters": {
-        "title": "Posters & Print Design",
-        "description": "Eye-catching print materials for events and marketing."
-      },
-      "socialMedia": {
-        "title": "Social Media Design",
-        "description": "Professional graphics for your social media presence."
-      },
-      "animations": {
-        "title": "Animations",
-        "description": "Bring your brand to life with motion graphics."
-      }
-    },
-    "webDevPage": {
-      "title": "Web Development Pricing",
+      "features": ["Monthly website plans", "Telegram bots", "Web applications", "Custom solutions", "Ongoing support"],
       "subtitle": "Affordable monthly plans for websites and Telegram bots. No hidden fees.",
       "backToPricing": "Back to Pricing",
       "websitePlansTitle": "Website Plans",
       "botPlansTitle": "Telegram Bots & Web Apps",
       "popular": "Most Popular",
       "getStarted": "Get Started",
+      "perMonth": "/month",
       "customTitle": "Need a Custom Solution?",
       "customDescription": "Have a unique project in mind? We build custom web applications and solutions tailored to your specific needs.",
       "contactUs": "Contact Us for a Quote",
       "starter": {
         "name": "Starter",
-        "price": "$19",
-        "period": "/month",
         "description": "Perfect for small businesses just getting started online.",
-        "features": ["Single page website", "Mobile responsive design", "Contact form", "Basic SEO", "Monthly updates"]
+        "features": ["Single page website", "Mobile responsive design", "Basic SEO setup", "Contact form", "Monthly updates (2 hrs)", "Email support"]
       },
       "standard": {
         "name": "Standard",
-        "price": "$39",
-        "period": "/month",
         "description": "Great for growing businesses that need more features.",
-        "features": ["Up to 5 pages", "Mobile responsive design", "Contact form", "Advanced SEO", "Blog section", "Social media integration"]
+        "features": ["Up to 5 pages", "Mobile responsive design", "Advanced SEO optimization", "Contact form + Live chat", "Monthly updates (4 hrs)", "Priority email support", "Basic analytics setup", "Social media integration"]
       },
       "pro": {
         "name": "Pro",
-        "price": "$63",
-        "period": "/month",
         "description": "For businesses that need a comprehensive online presence.",
-        "features": ["Up to 10 pages", "Mobile responsive design", "Advanced features", "Full SEO package", "E-commerce ready", "Priority support"]
+        "features": ["Up to 10 pages", "Mobile responsive design", "Full SEO package", "Contact form + Live chat + Booking", "Monthly updates (8 hrs)", "Priority phone & email support", "Advanced analytics", "Social media integration", "Blog setup", "E-commerce ready"]
       },
       "botStarter": {
         "name": "Starter",
-        "price": "$16",
-        "period": "/month",
         "description": "Simple bot for basic automation needs.",
-        "features": ["Basic commands", "Admin panel", "Customer notifications", "Order tracking"]
+        "features": ["Basic order/booking system", "Customer notifications", "Up to 100 orders/month", "Email support"]
       },
       "botStandard": {
         "name": "Standard",
-        "price": "$29",
-        "period": "/month",
-        "description": "Feature-rich bot for growing businesses.",
-        "features": ["Advanced commands", "Payment integration", "Customer database", "Analytics", "Multi-language"]
+        "description": "Advanced bot with more features and capacity.",
+        "features": ["Advanced order management", "Customer notifications", "Up to 500 orders/month", "Menu/catalog management", "Priority support", "Basic analytics"]
       },
       "botPro": {
         "name": "Pro",
-        "price": "$47",
-        "period": "/month",
-        "description": "Full-featured bot for established businesses.",
-        "features": ["All Standard features", "CRM integration", "Custom workflows", "API access", "Priority support"]
+        "description": "Full-featured bot for high-volume businesses.",
+        "features": ["Complete order system", "Unlimited orders", "Payment integration", "Advanced analytics", "Multiple admin access", "API integrations", "Priority phone support", "Custom features"]
       }
     },
-    "marketingPage": {
+    "marketing": {
       "title": "Marketing Pricing",
+      "startingPrice": "Custom",
+      "priceLabel": " pricing",
+      "highlight": "SEO, Social Media, Advertising & More",
+      "description": "Custom marketing solutions tailored to your business goals and budget.",
+      "features": ["SEO optimization", "Social media marketing", "Paid advertising", "Content creation", "Brand strategy"],
       "subtitle": "Custom marketing solutions tailored to your business goals and budget.",
       "backToPricing": "Back to Pricing",
       "customNote": "All marketing services are custom-priced based on your specific needs and goals.",
@@ -700,28 +649,69 @@
       "ctaDescription": "Let's discuss your marketing goals and create a custom strategy that fits your budget.",
       "seo": {
         "title": "SEO Optimization",
-        "description": "Improve your search engine rankings and drive organic traffic.",
-        "includes": ["Keyword research", "On-page optimization", "Technical SEO audit", "Link building", "Monthly reports"]
+        "description": "Improve your search engine rankings and drive organic traffic to your website.",
+        "includes": ["Technical SEO audit & fixes", "On-page optimization", "Content strategy & creation", "Keyword research", "Link building", "Monthly reporting"]
       },
       "smm": {
         "title": "Social Media Marketing",
-        "description": "Build your brand presence on social platforms.",
-        "includes": ["Content strategy", "Post creation", "Community management", "Paid campaigns", "Performance analytics"]
+        "description": "Build your brand presence and engage with your audience on social platforms.",
+        "includes": ["Content calendar & strategy", "Post creation & scheduling", "Community management", "Engagement strategies", "Follower growth tactics", "Performance analytics"]
       },
       "advertising": {
         "title": "Paid Advertising",
-        "description": "Targeted ad campaigns that deliver results.",
-        "includes": ["Google Ads management", "Facebook/Instagram ads", "Campaign optimization", "A/B testing", "ROI tracking"]
+        "description": "Reach your target audience with strategic ad campaigns across multiple platforms.",
+        "includes": ["Meta Ads (Facebook & Instagram)", "TikTok Ads", "Google Ads", "Campaign strategy & setup", "Ad creative design", "A/B testing & optimization", "ROI tracking & reporting"]
       },
       "content": {
-        "title": "Content Marketing",
-        "description": "Engage your audience with quality content.",
-        "includes": ["Blog posts", "Email newsletters", "Video content", "Infographics", "Content calendar"]
+        "title": "Content Creation",
+        "description": "Engage your audience with high-quality content that drives conversions.",
+        "includes": ["Blog articles", "Video content", "Copywriting", "Email marketing campaigns", "Infographics", "Case studies"]
       },
-      "brand": {
+      "brandStrategy": {
         "title": "Brand Strategy",
-        "description": "Develop a strong brand identity.",
-        "includes": ["Brand positioning", "Competitor analysis", "Target audience research", "Messaging framework", "Brand guidelines"]
+        "description": "Develop a powerful brand identity that resonates with your target market.",
+        "includes": ["Market research", "Competitive analysis", "Brand positioning", "Messaging strategy", "Brand guidelines", "Go-to-market strategy"]
+      }
+    },
+    "design": {
+      "title": "Graphic Design Pricing",
+      "startingPrice": "Custom",
+      "priceLabel": " pricing",
+      "highlight": "Logos, Branding, Animations & More",
+      "description": "Professional design services custom-priced based on your project needs.",
+      "features": ["Logo design", "Branding packages", "Print design", "Social media graphics", "Animations"],
+      "subtitle": "Professional design services tailored to your brand and budget.",
+      "backToPricing": "Back to Pricing",
+      "customNote": "All design services are custom-priced based on project scope and requirements.",
+      "whatsIncluded": "What's Included:",
+      "customPricing": "Custom Pricing",
+      "requestPrice": "Request Price",
+      "ctaTitle": "Ready to Create Something Amazing?",
+      "ctaDescription": "Tell us about your project and we'll provide a custom quote tailored to your needs.",
+      "logoDesign": {
+        "title": "Logo Design",
+        "description": "Create a unique and memorable logo that represents your brand.",
+        "includes": ["3+ initial concepts", "Unlimited revisions", "All file formats (AI, EPS, PNG, SVG, PDF)", "Black & white versions", "Social media optimized versions", "Full ownership rights"]
+      },
+      "branding": {
+        "title": "Branding Package",
+        "description": "Complete brand identity system for your business.",
+        "includes": ["Logo design with variations", "Color palette", "Typography selection", "Brand guidelines document", "Business card design", "Letterhead & envelope design", "Social media kit"]
+      },
+      "posters": {
+        "title": "Posters & Print Design",
+        "description": "Eye-catching print materials for events and marketing.",
+        "includes": ["Event posters", "Promotional flyers", "Brochures & catalogs", "Business cards", "Menu design", "Print-ready files"]
+      },
+      "socialMedia": {
+        "title": "Social Media Design",
+        "description": "Professional graphics for your social media presence.",
+        "includes": ["Post templates", "Story templates", "Cover images", "Profile pictures", "Ad creatives", "Highlight covers"]
+      },
+      "animations": {
+        "title": "Animations",
+        "description": "Bring your brand to life with motion graphics.",
+        "includes": ["Logo animations", "Social media animations", "Motion graphics", "Video intros/outros", "Explainer video elements", "GIFs & short videos"]
       }
     }
   },
