@@ -313,6 +313,140 @@
       "button": "Loyihangizni Boshlash"
     }
   },
+  "servicesPage": {
+    "title": "Bizning Xizmatlar",
+    "subtitle": "Onlayn mavjudligingizni yaratish va rivojlantirish uchun kerak bo'lgan hamma narsa. Marketingdan veb-ishlab chiqish va dizayngacha.",
+    "learnMore": "Batafsil",
+    "ctaTitle": "Qayerdan boshlashni bilmayapsizmi?",
+    "ctaDescription": "Keling, biznes maqsadlaringizni muhokama qilib, ideal yechimni topamiz.",
+    "ctaButton": "Bepul maslahat",
+    "marketing": {
+      "title": "Marketing",
+      "description": "Ma'lumotlarga asoslangan marketing strategiyalari bilan biznesingizni rivojlantiring.",
+      "features": ["SEO Optimallashtirish", "Ijtimoiy tarmoq marketingi", "Pullik reklama", "Kontent yaratish", "Brend strategiyasi"]
+    },
+    "webDev": {
+      "title": "Veb-ishlab chiqish va Yechimlar",
+      "description": "Professional saytlar, botlar va veb-yechimlar bilan raqamli mavjudligingizni yarating.",
+      "features": ["Oylik sayt rejalari", "Telegram Botlar", "Veb-ilovalar", "Maxsus yechimlar"]
+    },
+    "design": {
+      "title": "Grafik Dizayn",
+      "description": "Diqqatni tortadigan ajoyib vizuallar bilan brendingizni ajratib turing.",
+      "features": ["Logo dizayni", "Brending", "Poster va bosma", "Ijtimoiy tarmoq dizayni", "Animatsiya"]
+    }
+  },
+  "pricingPage": {
+    "title": "Narxlar",
+    "subtitle": "Barcha xizmatlarimiz uchun shaffof va arzon narxlar. Yashirin to'lovlar yo'q.",
+    "viewDetails": "Batafsil",
+    "quickCompare": "Narxlarni tez ko'rib chiqish",
+    "service": "Xizmat",
+    "startingFrom": "Dan boshlab",
+    "websitesDev": "Sayt ishlab chiqish",
+    "marketingServices": "Marketing xizmatlari",
+    "designServices": "Dizayn xizmatlari",
+    "custom": "Maxsus",
+    "ctaTitle": "Maxsus yechim kerakmi?",
+    "ctaDescription": "Shaxsiy narx hisob-kitobi uchun biz bilan bog'laning.",
+    "ctaButton": "Hisob-kitob olish",
+    "webDev": {
+      "title": "Veb-ishlab chiqish va Yechimlar",
+      "startingPrice": "$19",
+      "priceLabel": "/oy",
+      "highlight": "$19/oydan boshlanadigan sayt rejalari",
+      "description": "Saytlar va Telegram botlar uchun arzon oylik rejalar. Yashirin to'lovlar yo'q.",
+      "features": ["Oylik sayt rejalari", "Telegram botlar", "Veb-ilovalar", "Maxsus yechimlar", "Doimiy qo'llab-quvvatlash"]
+    },
+    "marketing": {
+      "title": "Marketing",
+      "startingPrice": "Maxsus",
+      "priceLabel": "",
+      "highlight": "SEO, ijtimoiy tarmoqlar, reklama va boshqalar",
+      "description": "Biznes maqsadlaringiz va byudjetingizga moslashtirilgan marketing yechimlari.",
+      "features": ["SEO optimallashtirish", "Ijtimoiy tarmoq marketingi", "Pullik reklama", "Kontent yaratish", "Brend strategiyasi"]
+    },
+    "design": {
+      "title": "Grafik Dizayn",
+      "startingPrice": "Maxsus",
+      "priceLabel": "",
+      "highlight": "Logolar, brending, animatsiya va boshqalar",
+      "description": "Loyihangiz talablariga asoslangan maxsus narxli professional dizayn xizmatlari.",
+      "features": ["Logo dizayni", "Brending", "Bosma dizayn", "Ijtimoiy tarmoq grafikasi", "Animatsiya"],
+      "backToPricing": "Narxlarga qaytish",
+      "whatsIncluded": "Nimalar kiradi:",
+      "customPricing": "Maxsus narx",
+      "requestPrice": "Narx so'rash",
+      "ctaTitle": "Ajoyib narsa yaratishga tayyormisiz?",
+      "ctaDescription": "Loyihangiz haqida gapiring, biz maxsus taklif tayyorlaymiz."
+    },
+    "webDevPage": {
+      "title": "Veb-ishlab chiqish narxlari",
+      "subtitle": "Saytlar va Telegram botlar uchun arzon oylik rejalar. Yashirin to'lovlar yo'q.",
+      "backToPricing": "Narxlarga qaytish",
+      "websitePlansTitle": "Sayt rejalari",
+      "botPlansTitle": "Telegram Botlar va Veb-ilovalar",
+      "popular": "Mashhur",
+      "getStarted": "Boshlash",
+      "customTitle": "Maxsus yechim kerakmi?",
+      "customDescription": "Noyob loyihangiz bormi? Biz sizning ehtiyojlaringizga moslashtirilgan maxsus veb-ilovalar yaratamiz.",
+      "contactUs": "Hisob-kitob uchun bog'laning"
+    },
+    "marketingPage": {
+      "title": "Marketing narxlari",
+      "subtitle": "Biznes maqsadlaringiz va byudjetingizga moslashtirilgan marketing yechimlari.",
+      "backToPricing": "Narxlarga qaytish",
+      "customNote": "Barcha marketing xizmatlari maqsadlaringizga asoslangan maxsus narxlanadi.",
+      "whatsIncluded": "Nimalar kiradi:",
+      "customPricing": "Maxsus narx",
+      "getQuote": "Hisob-kitob olish",
+      "ctaTitle": "Biznesingizni rivojlantirishga tayyormisiz?",
+      "ctaDescription": "Marketing maqsadlaringizni muhokama qilamiz va byudjetingizga mos strategiya yaratamiz."
+    }
+  },
+  "testimonialsPage": {
+    "title": "Mijozlar Fikrlari",
+    "subtitle": "Bizning so'zimizga ishonmang. Mijozlarimiz biz bilan ishlash haqida nima deyishadi.",
+    "ctaTitle": "Mamnun mijozlarimizga qo'shilishga tayyormisiz?",
+    "ctaDescription": "Loyihangizni muhokama qilamiz va biznesingiz o'sishiga qanday yordam berishimizni ko'ramiz.",
+    "ctaButton": "Loyihani boshlash"
+  },
+  "aboutPage": {
+    "title": "GetGrowth Haqida",
+    "subtitle": "Biz biznesga professional marketing, veb-ishlab chiqish va dizayn xizmatlari bilan onlayn mavjudligini yaratish va rivojlantirishga yordam beramiz.",
+    "missionTitle": "Bizning Missiyamiz",
+    "missionText": "Har qanday o'lchamdagi bizneslarga arzon va sifatli raqamli yechimlar taqdim etish. Biz har bir biznes kuchli onlayn mavjudlikka loyiq deb hisoblaymiz.",
+    "storyTitle": "Bizning Hikoyamiz",
+    "storyPart1": "GetGrowth oddiy g'oya bilan tashkil etildi: biznes raqamli mavjudligi uchun sifat va arzonlik o'rtasida tanlash kerak emas.",
+    "storyPart2": "Biz ko'p kompaniyalar bank buzmasdan professional natija beradigan ishonchli hamkorlar topishda qiynalib yurganini ko'rdik. Shuning uchun biz GetGrowthni boshqacha qildik — katta agentliklar sifatida, lekin o'sayotgan biznes uchun arzon narxlarda ishlaydigan to'liq xizmat agentligi.",
+    "storyPart3": "Bugun biz o'nlab kompaniyalarga dizayn, marketing va raqamli yechimlar yordamida onlayn mavjudligini o'zgartirishga yordam berdik. Va bu faqat boshlanish.",
+    "uniqueTitle": "Bizni nima ajratib turadi",
+    "unique1": {
+      "title": "Hammasi bir joyda",
+      "description": "Marketing, veb-ishlab chiqish va dizayn — hammasi bir tom ostida. Bir nechta agentlik bilan ishlash kerak emas."
+    },
+    "unique2": {
+      "title": "Arzon narxlar",
+      "description": "O'sayotgan biznes uchun professional sifat arzon narxlarda. Yashirin to'lovlarsiz shaffof narxlar."
+    },
+    "unique3": {
+      "title": "Shaxsiy yondashuv",
+      "description": "Biz har bir mijozga hamkor sifatida qaraymiz. To'g'ridan-to'g'ri muloqot, tez javoblar va ehtiyojlaringizga moslashtirilgan yechimlar."
+    },
+    "unique4": {
+      "title": "Natijaga yo'naltirilgan",
+      "description": "Biz muhim narsaga e'tibor qaratamiz — biznesingiz o'sishiga. Har bir loyiha o'lchanadigan natijalar berishga mo'ljallangan."
+    },
+    "exploreTitle": "Ko'proq bilib oling",
+    "portfolioLink": "Portfoliomizni ko'ring",
+    "portfolioDescription": "Ishlarimiz namunalari va mijozlarimiz uchun erishgan natijalar.",
+    "testimonialsLink": "Mijozlar fikrlarini o'qing",
+    "testimonialsDescription": "Mijozlarimiz biz bilan ishlash haqida nima deyishadi.",
+    "ctaTitle": "Hamkorlik qilishga tayyormisiz?",
+    "ctaDescription": "Loyihangizni muhokama qilamiz va biznesingiz o'sishiga qanday yordam berishimizni ko'ramiz.",
+    "ctaButton": "Bog'lanish",
+    "telegramButton": "Telegramda yozish"
+  },
   "blog": {
     "title": "Blog",
     "subtitle": "Kichik biznesingizni onlayn o'stirish uchun maslahatlar va g'oyalar",

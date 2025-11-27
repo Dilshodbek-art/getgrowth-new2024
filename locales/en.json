@@ -459,6 +459,315 @@
     "tryDemo": "Try Live Demo Bot",
     "ctaButton": "Get Your Bot Today"
   },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Everything you need to establish and grow your online presence. From marketing to web development to design, we have you covered.",
+    "learnMore": "Learn More",
+    "ctaTitle": "Not Sure Where to Start?",
+    "ctaDescription": "Let's discuss your business goals and find the perfect solution for you.",
+    "ctaButton": "Get Free Consultation",
+    "marketing": {
+      "title": "Marketing",
+      "description": "Grow your business with data-driven marketing strategies that deliver real results.",
+      "features": ["SEO Optimization", "Social Media Marketing", "Paid Advertising", "Content Creation", "Brand Strategy"]
+    },
+    "webDev": {
+      "title": "Web Development & Solutions",
+      "description": "Build your digital presence with professional websites, bots, and custom web solutions.",
+      "features": ["Monthly Website Plans", "Telegram Bots", "Web Applications", "Custom Solutions"]
+    },
+    "design": {
+      "title": "Graphic Design",
+      "description": "Make your brand stand out with stunning visuals that capture attention.",
+      "features": ["Logo Design", "Branding", "Posters & Print", "Social Media Design", "Animations"]
+    },
+    "marketingPage": {
+      "title": "Marketing Services",
+      "subtitle": "Grow your business with data-driven marketing strategies that deliver real results.",
+      "backToServices": "Back to Services",
+      "viewPricing": "View Marketing Pricing",
+      "seo": {
+        "title": "SEO Optimization",
+        "description": "Improve your search engine rankings and drive organic traffic to your website.",
+        "features": ["Keyword Research", "On-Page SEO", "Technical SEO", "Link Building", "Local SEO"]
+      },
+      "smm": {
+        "title": "Social Media Marketing",
+        "description": "Build your brand presence and engage with your audience on social platforms.",
+        "features": ["Content Strategy", "Community Management", "Paid Social Ads", "Influencer Marketing", "Analytics"]
+      },
+      "advertising": {
+        "title": "Paid Advertising",
+        "description": "Get immediate results with targeted paid advertising campaigns.",
+        "features": ["Google Ads", "Facebook Ads", "Instagram Ads", "Retargeting", "A/B Testing"]
+      },
+      "content": {
+        "title": "Content Creation",
+        "description": "Engage your audience with high-quality, relevant content.",
+        "features": ["Blog Posts", "Video Content", "Infographics", "Email Newsletters", "Case Studies"]
+      },
+      "brand": {
+        "title": "Brand Strategy",
+        "description": "Develop a strong brand identity that resonates with your target audience.",
+        "features": ["Brand Positioning", "Messaging", "Competitor Analysis", "Market Research", "Brand Guidelines"]
+      }
+    },
+    "webDevPage": {
+      "title": "Web Development & Solutions",
+      "subtitle": "Build your digital presence with professional websites, bots, and custom web solutions.",
+      "backToServices": "Back to Services",
+      "viewPricing": "View Web Development Pricing",
+      "websites": {
+        "title": "Website Development",
+        "description": "Professional, responsive websites tailored to your business needs.",
+        "features": ["Custom Design", "Mobile Responsive", "SEO Optimized", "Fast Loading", "CMS Integration"]
+      },
+      "bots": {
+        "title": "Telegram Bots",
+        "description": "Automate your business with custom Telegram bots for orders and customer service.",
+        "features": ["Order Bots", "Booking Systems", "Customer Support", "Notifications", "Payment Integration"]
+      },
+      "webapps": {
+        "title": "Web Applications",
+        "description": "Custom web applications to solve your unique business challenges.",
+        "features": ["Custom Development", "API Integration", "Database Design", "User Authentication", "Admin Panels"]
+      },
+      "custom": {
+        "title": "Custom Solutions",
+        "description": "Tailored digital solutions designed specifically for your business.",
+        "features": ["Custom Features", "Third-party Integration", "Automation", "Scalable Architecture", "Ongoing Support"]
+      }
+    },
+    "designPage": {
+      "title": "Graphic Design Services",
+      "subtitle": "Make your brand stand out with stunning visuals that capture attention and communicate your message.",
+      "backToServices": "Back to Services",
+      "viewPricing": "View Graphic Design Pricing",
+      "logo": {
+        "title": "Logo Design",
+        "description": "Create a unique and memorable logo that represents your brand.",
+        "features": ["Multiple Concepts", "Unlimited Revisions", "All File Formats", "Brand Variations", "Full Ownership"]
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Complete brand identity system for your business.",
+        "features": ["Brand Guidelines", "Color Palette", "Typography", "Business Cards", "Stationery Design"]
+      },
+      "posters": {
+        "title": "Posters & Print",
+        "description": "Eye-catching print materials for events and marketing.",
+        "features": ["Event Posters", "Flyers", "Brochures", "Menu Design", "Print-Ready Files"]
+      },
+      "social": {
+        "title": "Social Media Design",
+        "description": "Professional graphics for your social media presence.",
+        "features": ["Post Templates", "Story Templates", "Cover Images", "Ad Creatives", "Highlight Covers"]
+      },
+      "animations": {
+        "title": "Animations",
+        "description": "Bring your brand to life with motion graphics.",
+        "features": ["Logo Animations", "Social Animations", "Motion Graphics", "Video Intros", "GIFs"]
+      }
+    }
+  },
+  "pricingPage": {
+    "title": "Pricing",
+    "subtitle": "Transparent, affordable pricing for all our services. No hidden fees, no surprises.",
+    "viewDetails": "View Details",
+    "quickCompare": "Quick Pricing Overview",
+    "service": "Service",
+    "startingFrom": "Starting From",
+    "websitesDev": "Website Development",
+    "marketingServices": "Marketing Services",
+    "designServices": "Design Services",
+    "custom": "Custom",
+    "ctaTitle": "Need a Custom Solution?",
+    "ctaDescription": "Contact us for a personalized quote tailored to your specific needs.",
+    "ctaButton": "Get Custom Quote",
+    "webDev": {
+      "title": "Web Development & Solutions",
+      "startingPrice": "$19",
+      "priceLabel": "/month",
+      "highlight": "Website plans starting from $19/month",
+      "description": "Affordable monthly plans for websites and Telegram bots. No hidden fees.",
+      "features": ["Monthly website plans", "Telegram bots", "Web applications", "Custom solutions", "Ongoing support"]
+    },
+    "marketing": {
+      "title": "Marketing",
+      "startingPrice": "Custom",
+      "priceLabel": " pricing",
+      "highlight": "SEO, Social Media, Advertising & More",
+      "description": "Custom marketing solutions tailored to your business goals and budget.",
+      "features": ["SEO optimization", "Social media marketing", "Paid advertising", "Content creation", "Brand strategy"]
+    },
+    "design": {
+      "title": "Graphic Design",
+      "startingPrice": "Custom",
+      "priceLabel": " pricing",
+      "highlight": "Logos, Branding, Animations & More",
+      "description": "Professional design services custom-priced based on your project needs.",
+      "features": ["Logo design", "Branding packages", "Print design", "Social media graphics", "Animations"],
+      "backToPricing": "Back to Pricing",
+      "whatsIncluded": "What's Included:",
+      "customPricing": "Custom Pricing",
+      "requestPrice": "Request Price",
+      "ctaTitle": "Ready to Create Something Amazing?",
+      "ctaDescription": "Tell us about your project and we'll provide a custom quote tailored to your needs.",
+      "logoDesign": {
+        "title": "Logo Design",
+        "description": "Create a unique and memorable logo that represents your brand."
+      },
+      "branding": {
+        "title": "Branding Package",
+        "description": "Complete brand identity system for your business."
+      },
+      "posters": {
+        "title": "Posters & Print Design",
+        "description": "Eye-catching print materials for events and marketing."
+      },
+      "socialMedia": {
+        "title": "Social Media Design",
+        "description": "Professional graphics for your social media presence."
+      },
+      "animations": {
+        "title": "Animations",
+        "description": "Bring your brand to life with motion graphics."
+      }
+    },
+    "webDevPage": {
+      "title": "Web Development Pricing",
+      "subtitle": "Affordable monthly plans for websites and Telegram bots. No hidden fees.",
+      "backToPricing": "Back to Pricing",
+      "websitePlansTitle": "Website Plans",
+      "botPlansTitle": "Telegram Bots & Web Apps",
+      "popular": "Most Popular",
+      "getStarted": "Get Started",
+      "customTitle": "Need a Custom Solution?",
+      "customDescription": "Have a unique project in mind? We build custom web applications and solutions tailored to your specific needs.",
+      "contactUs": "Contact Us for a Quote",
+      "starter": {
+        "name": "Starter",
+        "price": "$19",
+        "period": "/month",
+        "description": "Perfect for small businesses just getting started online.",
+        "features": ["Single page website", "Mobile responsive design", "Contact form", "Basic SEO", "Monthly updates"]
+      },
+      "standard": {
+        "name": "Standard",
+        "price": "$39",
+        "period": "/month",
+        "description": "Great for growing businesses that need more features.",
+        "features": ["Up to 5 pages", "Mobile responsive design", "Contact form", "Advanced SEO", "Blog section", "Social media integration"]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$63",
+        "period": "/month",
+        "description": "For businesses that need a comprehensive online presence.",
+        "features": ["Up to 10 pages", "Mobile responsive design", "Advanced features", "Full SEO package", "E-commerce ready", "Priority support"]
+      },
+      "botStarter": {
+        "name": "Starter",
+        "price": "$16",
+        "period": "/month",
+        "description": "Simple bot for basic automation needs.",
+        "features": ["Basic commands", "Admin panel", "Customer notifications", "Order tracking"]
+      },
+      "botStandard": {
+        "name": "Standard",
+        "price": "$29",
+        "period": "/month",
+        "description": "Feature-rich bot for growing businesses.",
+        "features": ["Advanced commands", "Payment integration", "Customer database", "Analytics", "Multi-language"]
+      },
+      "botPro": {
+        "name": "Pro",
+        "price": "$47",
+        "period": "/month",
+        "description": "Full-featured bot for established businesses.",
+        "features": ["All Standard features", "CRM integration", "Custom workflows", "API access", "Priority support"]
+      }
+    },
+    "marketingPage": {
+      "title": "Marketing Pricing",
+      "subtitle": "Custom marketing solutions tailored to your business goals and budget.",
+      "backToPricing": "Back to Pricing",
+      "customNote": "All marketing services are custom-priced based on your specific needs and goals.",
+      "whatsIncluded": "What's Included:",
+      "customPricing": "Custom Pricing",
+      "getQuote": "Get a Quote",
+      "ctaTitle": "Ready to Grow Your Business?",
+      "ctaDescription": "Let's discuss your marketing goals and create a custom strategy that fits your budget.",
+      "seo": {
+        "title": "SEO Optimization",
+        "description": "Improve your search engine rankings and drive organic traffic.",
+        "includes": ["Keyword research", "On-page optimization", "Technical SEO audit", "Link building", "Monthly reports"]
+      },
+      "smm": {
+        "title": "Social Media Marketing",
+        "description": "Build your brand presence on social platforms.",
+        "includes": ["Content strategy", "Post creation", "Community management", "Paid campaigns", "Performance analytics"]
+      },
+      "advertising": {
+        "title": "Paid Advertising",
+        "description": "Targeted ad campaigns that deliver results.",
+        "includes": ["Google Ads management", "Facebook/Instagram ads", "Campaign optimization", "A/B testing", "ROI tracking"]
+      },
+      "content": {
+        "title": "Content Marketing",
+        "description": "Engage your audience with quality content.",
+        "includes": ["Blog posts", "Email newsletters", "Video content", "Infographics", "Content calendar"]
+      },
+      "brand": {
+        "title": "Brand Strategy",
+        "description": "Develop a strong brand identity.",
+        "includes": ["Brand positioning", "Competitor analysis", "Target audience research", "Messaging framework", "Brand guidelines"]
+      }
+    }
+  },
+  "testimonialsPage": {
+    "title": "Client Testimonials",
+    "subtitle": "Don't just take our word for it. Here's what our clients have to say about working with us.",
+    "ctaTitle": "Ready to Join Our Happy Clients?",
+    "ctaDescription": "Let's discuss your project and see how we can help your business grow.",
+    "ctaButton": "Start Your Project"
+  },
+  "aboutPage": {
+    "title": "About GetGrowth",
+    "subtitle": "We help businesses establish and grow their online presence with professional marketing, web development, and design services.",
+    "missionTitle": "Our Mission",
+    "missionText": "To empower businesses of all sizes with affordable, high-quality digital solutions. We believe every business deserves a strong online presence, and we are here to make that happen.",
+    "storyTitle": "Our Story",
+    "storyPart1": "GetGrowth was founded with a simple idea: businesses should not have to choose between quality and affordability when it comes to their digital presence.",
+    "storyPart2": "We saw too many businesses struggling to find reliable partners who could deliver professional results without breaking the bank. So we built GetGrowth to be different - a full-service digital agency that delivers enterprise-quality work at prices that work for growing businesses.",
+    "storyPart3": "Today, we have helped dozens of businesses transform their online presence with stunning designs, effective marketing strategies, and powerful digital solutions. And we are just getting started.",
+    "uniqueTitle": "What Makes Us Different",
+    "unique1": {
+      "title": "All-in-One Solution",
+      "description": "Marketing, web development, and design - all under one roof. No need to work with multiple agencies."
+    },
+    "unique2": {
+      "title": "Affordable Pricing",
+      "description": "Professional quality at prices that work for growing businesses. Transparent pricing with no hidden fees."
+    },
+    "unique3": {
+      "title": "Personal Approach",
+      "description": "We treat every client like a partner. Direct communication, quick responses, and solutions tailored to your needs."
+    },
+    "unique4": {
+      "title": "Results-Driven",
+      "description": "We focus on what matters - growing your business. Every project is designed to deliver measurable results."
+    },
+    "exploreTitle": "Explore More",
+    "portfolioLink": "View Our Portfolio",
+    "portfolioDescription": "See examples of our work and the results we have achieved for our clients.",
+    "testimonialsLink": "Read Client Testimonials",
+    "testimonialsDescription": "Hear what our clients have to say about working with us.",
+    "ctaTitle": "Ready to Work Together?",
+    "ctaDescription": "Let's discuss your project and see how we can help your business grow.",
+    "ctaButton": "Get in Touch",
+    "telegramButton": "Chat on Telegram"
+  },
   "comments": {
     "title": "What Our Visitors Say",
     "subtitle": "Share your thoughts, ask questions, or leave feedback!",
