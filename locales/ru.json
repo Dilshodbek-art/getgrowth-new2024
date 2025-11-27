@@ -2,11 +2,14 @@
   "nav": {
     "home": "Главная",
     "services": "Услуги",
-    "comments": "Комментарии",
-    "portfolio": "Портфолио",
+    "marketing": "Маркетинг",
+    "webDev": "Веб-разработка и Решения",
+    "graphicDesign": "Графический Дизайн",
     "pricing": "Цены",
-    "blog": "Блог",
     "about": "О нас",
+    "aboutUs": "О Компании",
+    "portfolio": "Портфолио",
+    "testimonials": "Отзывы",
     "contact": "Контакты"
   },
   "home": {

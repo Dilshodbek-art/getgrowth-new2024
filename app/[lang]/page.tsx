@@ -69,21 +69,6 @@ export default function HomePage({ params }: { params: { lang: string } }) {
     },
   ];
 
-  const pricingTeaser = [
-    {
-      service: t.pricing?.logo || 'Logo Design',
-      price: '$50',
-    },
-    {
-      service: t.pricing?.animation || 'Logo Animation',
-      price: '$30',
-    },
-    {
-      service: t.pricing?.website || 'Website Development',
-      price: '$150',
-    },
-  ];
-
   const valueProps = [
     {
       title: t.value?.fast?.title || 'Fast Delivery',
@@ -264,43 +249,6 @@ export default function HomePage({ params }: { params: { lang: string } }) {
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* Pricing Teaser */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-gray-900 to-purple-900">
-        <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
-              {t.pricingTeaser?.title || 'Affordable Prices for Quality Work'}
-            </h2>
-            <p className="text-purple-200 text-lg">
-              {t.pricingTeaser?.subtitle || 'Starting prices that fit your budget'}
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
-            {pricingTeaser.map((item, index) => (
-              <div
-                key={index}
-                className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 text-center hover:bg-white/20 transition-all duration-300 border border-white/10"
-              >
-                <p className="text-purple-200 text-lg mb-2">{item.service}</p>
-                <p className="text-white text-4xl font-bold">{item.price}</p>
-                <p className="text-purple-300 text-sm mt-2">{t.pricingTeaser?.startingFrom || 'starting from'}</p>
-              </div>
-            ))}
-          </div>
-
-          <div className="text-center">
-            <p className="text-purple-200 mb-6">{t.pricingTeaser?.note || 'Contact us for full pricing and custom packages.'}</p>
-            <Link
-              href={`/${params.lang}/pricing`}
-              className="inline-block px-8 py-4 bg-white text-purple-900 rounded-full font-semibold hover:shadow-xl transform hover:scale-105 transition-all duration-300"
-            >
-              {t.pricingTeaser?.cta || 'View Full Pricing'}
             </Link>
           </div>
         </div>

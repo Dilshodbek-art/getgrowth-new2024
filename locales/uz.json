@@ -2,11 +2,14 @@
   "nav": {
     "home": "Bosh sahifa",
     "services": "Xizmatlar",
-    "comments": "Izohlar",
-    "portfolio": "Portfolio",
+    "marketing": "Marketing",
+    "webDev": "Veb-ishlab chiqish va Yechimlar",
+    "graphicDesign": "Grafik Dizayn",
     "pricing": "Narxlar",
-    "blog": "Blog",
     "about": "Biz haqimizda",
+    "aboutUs": "Kompaniya Haqida",
+    "portfolio": "Portfolio",
+    "testimonials": "Mijozlar Fikri",
     "contact": "Aloqa"
   },
   "home": {

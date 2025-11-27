@@ -2,11 +2,14 @@
   "nav": {
     "home": "Home",
     "services": "Services",
-    "comments": "Comments",
-    "portfolio": "Portfolio",
+    "marketing": "Marketing",
+    "webDev": "Web Development & Solutions",
+    "graphicDesign": "Graphic Design",
     "pricing": "Pricing",
-    "blog": "Blog",
     "about": "About",
+    "aboutUs": "About Us",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
     "contact": "Contact"
   },
   "home": {
