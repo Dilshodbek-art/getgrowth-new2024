@@ -321,19 +321,98 @@
     "ctaDescription": "Keling, biznes maqsadlaringizni muhokama qilib, ideal yechimni topamiz.",
     "ctaButton": "Bepul maslahat",
     "marketing": {
-      "title": "Marketing",
+      "title": "Marketing Xizmatlari",
       "description": "Ma'lumotlarga asoslangan marketing strategiyalari bilan biznesingizni rivojlantiring.",
-      "features": ["SEO Optimallashtirish", "Ijtimoiy tarmoq marketingi", "Pullik reklama", "Kontent yaratish", "Brend strategiyasi"]
+      "features": ["SEO Optimallashtirish", "Ijtimoiy tarmoq marketingi", "Pullik reklama", "Kontent yaratish", "Brend strategiyasi"],
+      "subtitle": "Haqiqiy natijalar beradigan ma'lumotlarga asoslangan marketing strategiyalari bilan biznesingizni rivojlantiring.",
+      "backToServices": "Xizmatlarga qaytish",
+      "viewPricing": "Marketing narxlarini ko'rish",
+      "seo": {
+        "title": "SEO Optimallashtirish",
+        "description": "Qidiruv tizimlarida reytingingizni oshiring va organik trafik jalb qiling.",
+        "features": ["Kalit so'zlar tadqiqoti", "Sahifa ichidagi SEO", "Texnik SEO", "Link qurish", "Mahalliy SEO"]
+      },
+      "smm": {
+        "title": "Ijtimoiy Tarmoq Marketingi",
+        "description": "Brend mavjudligini yarating va ijtimoiy platformalarda auditoriya bilan aloqa qiling.",
+        "features": ["Kontent strategiyasi", "Jamiyat boshqaruvi", "Pullik ijtimoiy reklama", "Influenser marketing", "Analitika"]
+      },
+      "advertising": {
+        "title": "Pullik Reklama",
+        "description": "Maqsadli reklama kampaniyalari bilan tezkor natijalar oling.",
+        "features": ["Google Ads", "Facebook Ads", "Instagram Ads", "Qayta targetlash", "A/B testlash"]
+      },
+      "content": {
+        "title": "Kontent Yaratish",
+        "description": "Yuqori sifatli, dolzarb kontent bilan auditoriyani jalb qiling.",
+        "features": ["Blog maqolalari", "Video kontent", "Infografikalar", "Email-xabarlar", "Keyslar"]
+      },
+      "brandStrategy": {
+        "title": "Brend Strategiyasi",
+        "description": "Maqsadli auditoriyangizga mos keladigan kuchli brend identifikatsiyasini ishlab chiqing.",
+        "features": ["Brend pozitsiyalash", "Xabarlar", "Raqobatchi tahlili", "Bozor tadqiqoti", "Brend yo'riqnomasi"]
+      }
     },
     "webDev": {
       "title": "Veb-ishlab chiqish va Yechimlar",
       "description": "Professional saytlar, botlar va veb-yechimlar bilan raqamli mavjudligingizni yarating.",
-      "features": ["Oylik sayt rejalari", "Telegram Botlar", "Veb-ilovalar", "Maxsus yechimlar"]
+      "features": ["Oylik sayt rejalari", "Telegram Botlar", "Veb-ilovalar", "Maxsus yechimlar"],
+      "subtitle": "Professional saytlar, botlar va maxsus veb-yechimlar bilan raqamli mavjudligingizni yarating.",
+      "backToServices": "Xizmatlarga qaytish",
+      "viewPricing": "Veb-ishlab chiqish narxlarini ko'rish",
+      "websitePlans": {
+        "title": "Oylik Sayt Rejalari",
+        "description": "Arzon oylik rejalarda doimiy texnik xizmat, yangilanishlar va qo'llab-quvvatlash bilan professional sayt oling.",
+        "features": ["Maxsus dizayn", "Mobil moslashuvchan", "SEO optimallashtirilgan", "Muntazam yangilanishlar", "Texnik qo'llab-quvvatlash"]
+      },
+      "telegramBots": {
+        "title": "Telegram Botlar",
+        "description": "Buyurtmalar, bron qilish, mijozlarga xizmat ko'rsatish va boshqalar uchun maxsus Telegram botlari bilan biznesingizni avtomatlashtiring.",
+        "features": ["Buyurtma boshqaruvi", "Mijoz xabarnomalar", "Bron qilish tizimlari", "To'lov integratsiyasi", "Analitika paneli"]
+      },
+      "webApps": {
+        "title": "Veb-ilovalar",
+        "description": "Zamonaviy texnologiyalar bilan biznes ehtiyojlaringizga moslashtirilgan kuchli veb-ilovalar yarating.",
+        "features": ["Maxsus ishlab chiqish", "Ma'lumotlar bazasi integratsiyasi", "API ishlab chiqish", "Foydalanuvchi autentifikatsiyasi", "Bulutli joylashtirish"]
+      },
+      "customSolutions": {
+        "title": "Maxsus Yechimlar",
+        "description": "Noyob loyihangiz bormi? Biz sizning aniq talablaringizga moslashtirilgan maxsus raqamli yechimlar yaratamiz.",
+        "features": ["Talablar tahlili", "Maxsus arxitektura", "Masshtablanadigan yechimlar", "To'liq hujjatlar", "Doimiy qo'llab-quvvatlash"]
+      }
     },
     "design": {
-      "title": "Grafik Dizayn",
+      "title": "Grafik Dizayn Xizmatlari",
       "description": "Diqqatni tortadigan ajoyib vizuallar bilan brendingizni ajratib turing.",
-      "features": ["Logo dizayni", "Brending", "Poster va bosma", "Ijtimoiy tarmoq dizayni", "Animatsiya"]
+      "features": ["Logo dizayni", "Brending", "Poster va bosma", "Ijtimoiy tarmoq dizayni", "Animatsiya"],
+      "subtitle": "Diqqatni tortadigan va xabaringizni yetkazadigan ajoyib vizuallar bilan brendingizni ajratib turing.",
+      "backToServices": "Xizmatlarga qaytish",
+      "viewPricing": "Dizayn narxlarini ko'rish",
+      "logoDesign": {
+        "title": "Logo Dizayni",
+        "description": "Brend identifikatsiyangizni mukammal ifodalovchi noyob va esda qolarli logo yarating.",
+        "features": ["Ko'p konseptsiyalar", "Cheksiz tuzatishlar", "Barcha fayl formatlari", "Brend yo'riqnomasi"]
+      },
+      "branding": {
+        "title": "Brending",
+        "description": "Barcha teginish nuqtalarida izchil vizual elementlar bilan to'liq brend identifikatsiyasini yarating.",
+        "features": ["Vizual identifikatsiya", "Rang palitrasi", "Tipografiya", "Brend kitobi"]
+      },
+      "posters": {
+        "title": "Posterlar va Bosma Dizayn",
+        "description": "Diqqatni tortadigan va xabaringizni yetkazadigan posterlar, flayerlar va bosma materiallar.",
+        "features": ["Tadbir posterlari", "Flayerlar", "Broshyuralar", "Vizitkalar"]
+      },
+      "socialMedia": {
+        "title": "Ijtimoiy Tarmoq Dizayni",
+        "description": "Jalb qilish va brend tanilishini oshiradigan ijtimoiy tarmoq grafikalari.",
+        "features": ["Post shablonlari", "Story dizaynlari", "Qopqoq rasmlari", "Reklama kreativlari"]
+      },
+      "animations": {
+        "title": "Animatsiya",
+        "description": "Ajoyib logo animatsiyalari va motion grafikalar bilan brendingizni jonlantiring.",
+        "features": ["Logo animatsiyalari", "Motion grafikalar", "Ijtimoiy tarmoq animatsiyalari", "Video introlar"]
+      }
     }
   },
   "pricingPage": {

@@ -467,22 +467,9 @@
     "ctaDescription": "Let's discuss your business goals and find the perfect solution for you.",
     "ctaButton": "Get Free Consultation",
     "marketing": {
-      "title": "Marketing",
-      "description": "Grow your business with data-driven marketing strategies that deliver real results.",
-      "features": ["SEO Optimization", "Social Media Marketing", "Paid Advertising", "Content Creation", "Brand Strategy"]
-    },
-    "webDev": {
-      "title": "Web Development & Solutions",
-      "description": "Build your digital presence with professional websites, bots, and custom web solutions.",
-      "features": ["Monthly Website Plans", "Telegram Bots", "Web Applications", "Custom Solutions"]
-    },
-    "design": {
-      "title": "Graphic Design",
-      "description": "Make your brand stand out with stunning visuals that capture attention.",
-      "features": ["Logo Design", "Branding", "Posters & Print", "Social Media Design", "Animations"]
-    },
-    "marketingPage": {
       "title": "Marketing Services",
+      "description": "Grow your business with data-driven marketing strategies that deliver real results.",
+      "features": ["SEO Optimization", "Social Media Marketing", "Paid Advertising", "Content Creation", "Brand Strategy"],
       "subtitle": "Grow your business with data-driven marketing strategies that deliver real results.",
       "backToServices": "Back to Services",
       "viewPricing": "View Marketing Pricing",
@@ -506,67 +493,71 @@
         "description": "Engage your audience with high-quality, relevant content.",
         "features": ["Blog Posts", "Video Content", "Infographics", "Email Newsletters", "Case Studies"]
       },
-      "brand": {
+      "brandStrategy": {
         "title": "Brand Strategy",
         "description": "Develop a strong brand identity that resonates with your target audience.",
         "features": ["Brand Positioning", "Messaging", "Competitor Analysis", "Market Research", "Brand Guidelines"]
       }
     },
-    "webDevPage": {
+    "webDev": {
       "title": "Web Development & Solutions",
+      "description": "Build your digital presence with professional websites, bots, and custom web solutions.",
+      "features": ["Monthly Website Plans", "Telegram Bots", "Web Applications", "Custom Solutions"],
       "subtitle": "Build your digital presence with professional websites, bots, and custom web solutions.",
       "backToServices": "Back to Services",
       "viewPricing": "View Web Development Pricing",
-      "websites": {
-        "title": "Website Development",
-        "description": "Professional, responsive websites tailored to your business needs.",
-        "features": ["Custom Design", "Mobile Responsive", "SEO Optimized", "Fast Loading", "CMS Integration"]
+      "websitePlans": {
+        "title": "Monthly Website Plans",
+        "description": "Get a professional website with ongoing maintenance, updates, and support included in affordable monthly plans.",
+        "features": ["Custom design", "Mobile responsive", "SEO optimized", "Regular updates", "Technical support"]
       },
-      "bots": {
+      "telegramBots": {
         "title": "Telegram Bots",
-        "description": "Automate your business with custom Telegram bots for orders and customer service.",
-        "features": ["Order Bots", "Booking Systems", "Customer Support", "Notifications", "Payment Integration"]
+        "description": "Automate your business with custom Telegram bots for orders, bookings, customer support, and more.",
+        "features": ["Order management", "Customer notifications", "Booking systems", "Payment integration", "Analytics dashboard"]
       },
-      "webapps": {
+      "webApps": {
         "title": "Web Applications",
-        "description": "Custom web applications to solve your unique business challenges.",
-        "features": ["Custom Development", "API Integration", "Database Design", "User Authentication", "Admin Panels"]
+        "description": "Build powerful web applications tailored to your business needs with modern technologies.",
+        "features": ["Custom development", "Database integration", "API development", "User authentication", "Cloud deployment"]
       },
-      "custom": {
+      "customSolutions": {
         "title": "Custom Solutions",
-        "description": "Tailored digital solutions designed specifically for your business.",
-        "features": ["Custom Features", "Third-party Integration", "Automation", "Scalable Architecture", "Ongoing Support"]
+        "description": "Have a unique project in mind? We build custom digital solutions tailored to your specific requirements.",
+        "features": ["Requirements analysis", "Custom architecture", "Scalable solutions", "Full documentation", "Ongoing support"]
       }
     },
-    "designPage": {
+    "design": {
       "title": "Graphic Design Services",
+      "description": "Make your brand stand out with stunning visuals that capture attention.",
+      "features": ["Logo Design", "Branding", "Posters & Print", "Social Media Design", "Animations"],
       "subtitle": "Make your brand stand out with stunning visuals that capture attention and communicate your message.",
       "backToServices": "Back to Services",
       "viewPricing": "View Graphic Design Pricing",
-      "logo": {
+      "logoDesign": {
         "title": "Logo Design",
-        "description": "Create a unique and memorable logo that represents your brand.",
-        "features": ["Multiple Concepts", "Unlimited Revisions", "All File Formats", "Brand Variations", "Full Ownership"]
+        "description": "Create a unique and memorable logo that represents your brand identity perfectly.",
+        "features": ["Multiple concepts", "Unlimited revisions", "All file formats", "Brand guidelines"]
       },
       "branding": {
         "title": "Branding",
-        "description": "Complete brand identity system for your business.",
-        "features": ["Brand Guidelines", "Color Palette", "Typography", "Business Cards", "Stationery Design"]
+        "description": "Build a complete brand identity with consistent visual elements across all touchpoints.",
+        "features": ["Visual identity", "Color palette", "Typography", "Brand book"]
       },
       "posters": {
-        "title": "Posters & Print",
-        "description": "Eye-catching print materials for events and marketing.",
-        "features": ["Event Posters", "Flyers", "Brochures", "Menu Design", "Print-Ready Files"]
+        "title": "Posters & Print Design",
+        "description": "Eye-catching posters, flyers, and print materials that grab attention and communicate your message.",
+        "features": ["Event posters", "Flyers", "Brochures", "Business cards"]
       },
-      "social": {
+      "socialMedia": {
         "title": "Social Media Design",
-        "description": "Professional graphics for your social media presence.",
-        "features": ["Post Templates", "Story Templates", "Cover Images", "Ad Creatives", "Highlight Covers"]
+        "description": "Scroll-stopping social media graphics that boost engagement and brand recognition.",
+        "features": ["Post templates", "Story designs", "Cover images", "Ad creatives"]
       },
       "animations": {
         "title": "Animations",
-        "description": "Bring your brand to life with motion graphics.",
-        "features": ["Logo Animations", "Social Animations", "Motion Graphics", "Video Intros", "GIFs"]
+        "description": "Bring your brand to life with stunning logo animations and motion graphics.",
+        "features": ["Logo animations", "Motion graphics", "Social media animations", "Video intros"]
       }
     }
   },
