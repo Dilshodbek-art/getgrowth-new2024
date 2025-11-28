@@ -10,6 +10,7 @@
     "aboutUs": "Kompaniya Haqida",
     "portfolio": "Portfolio",
     "testimonials": "Mijozlar Fikri",
+    "blog": "Blog",
     "contact": "Aloqa"
   },
   "home": {
@@ -560,12 +561,48 @@
       }
     }
   },
-  "testimonialsPage": {
+  "testimonials": {
     "title": "Mijozlar Fikrlari",
     "subtitle": "Bizning so'zimizga ishonmang. Mijozlarimiz biz bilan ishlash haqida nima deyishadi.",
     "ctaTitle": "Mamnun mijozlarimizga qo'shilishga tayyormisiz?",
-    "ctaDescription": "Loyihangizni muhokama qilamiz va biznesingiz o'sishiga qanday yordam berishimizni ko'ramiz.",
-    "ctaButton": "Loyihani boshlash"
+    "ctaDescription": "Keling, birgalikda ajoyib narsa yarataylik. Bog'laning va loyihangizni bugun boshlang.",
+    "ctaButton": "Loyihani boshlash",
+    "testimonial1": {
+      "name": "Alisher Karimov",
+      "role": "Restoran egasi",
+      "company": "BekBurger",
+      "text": "GetGrowth restoranimiz uchun ajoyib Telegram bot yaratdi. Buyurtmalar birinchi oyda 40% ga oshdi! Jamoa professional edi va o'z vaqtida topshirdi."
+    },
+    "testimonial2": {
+      "name": "Malika Rahimova",
+      "role": "Startap asoschisi",
+      "company": "TechFlow",
+      "text": "Ular biz uchun yaratgan brending paketi barcha kutilganlardan oshib ketdi. Yangi logotip va brend identifikatsiyamiz raqobatli bozorda ajralib turishimizga yordam berdi."
+    },
+    "testimonial3": {
+      "name": "Davron Toshmatov",
+      "role": "Elektron tijorat menejeri",
+      "company": "StyleHub",
+      "text": "GetGrowth tomonidan saytimizni qayta dizayn qilish konversiyani 60% ga oshirdi. Ular saytni samarali qilish uchun nima kerakligini chindan ham tushunishadi."
+    },
+    "testimonial4": {
+      "name": "Sevara Abdullayeva",
+      "role": "Marketing direktori",
+      "company": "GreenLife Co",
+      "text": "Ular biz uchun yaratadigan ijtimoiy tarmoq kontenti doim a'lo darajada. GetGrowth bilan ishlay boshlaganimizdan beri faolligimiz uch baravar oshdi."
+    },
+    "testimonial5": {
+      "name": "Bobur Nazarov",
+      "role": "Fitnes studiya egasi",
+      "company": "FitZone",
+      "text": "Saytimizdan bron qilish botigacha — GetGrowth biznesimizni raqamlashtirshda hal qiluvchi rol o'ynadi. Qattiq tavsiya qilaman!"
+    },
+    "testimonial6": {
+      "name": "Nodira Yusupova",
+      "role": "Butik egasi",
+      "company": "Chic & Co",
+      "text": "Ular biz uchun yaratgan logo animatsiyasi ajoyib. U haqiqatan ham ijtimoiy tarmoqlarda brendimizni jonlantiradi."
+    }
   },
   "aboutPage": {
     "title": "GetGrowth Haqida",

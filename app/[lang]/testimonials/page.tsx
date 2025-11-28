@@ -1,6 +1,7 @@
 import { getTranslations } from '@/lib/i18n';
 import Link from 'next/link';
 import type { Metadata } from 'next';
+import CommentsSection from '@/components/CommentsSection';
 
 export async function generateMetadata({ params }: { params: { lang: string } }): Promise<Metadata> {
   const titles = {
@@ -27,6 +28,7 @@ export async function generateMetadata({ params }: { params: { lang: string } })
 export default function TestimonialsPage({ params }: { params: { lang: string } }) {
   const translations = getTranslations(params.lang);
   const t = translations.testimonials || {};
+  const commentsT = translations.comments || {};
 
   const testimonials = [
     {
@@ -125,6 +127,8 @@ export default function TestimonialsPage({ params }: { params: { lang: string } 
           </div>
         </div>
       </section>
+
+      <CommentsSection translations={commentsT} />
     </>
   );
 }

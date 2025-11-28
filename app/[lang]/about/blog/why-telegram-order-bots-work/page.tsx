@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: { lang: string } })
     title: titles[params.lang as keyof typeof titles] || titles.en,
     description: descriptions[params.lang as keyof typeof descriptions] || descriptions.en,
     alternates: {
-      canonical: `https://getgrowth.online/${params.lang}/blog/why-telegram-order-bots-work`,
+      canonical: `https://getgrowth.online/${params.lang}/about/blog/why-telegram-order-bots-work`,
     },
   };
 }

@@ -13,6 +13,25 @@ const nextConfig = {
   devIndicators: {
     buildActivity: false,
   },
+  async redirects() {
+    return [
+      {
+        source: '/:lang/blog',
+        destination: '/:lang/about/blog',
+        permanent: true,
+      },
+      {
+        source: '/:lang/blog/:slug',
+        destination: '/:lang/about/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/:lang/comments',
+        destination: '/:lang/testimonials',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;

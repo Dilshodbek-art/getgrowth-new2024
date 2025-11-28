@@ -52,6 +52,7 @@ export default function Navbar({ lang, translations }: NavbarProps) {
         { label: t.aboutUs || 'About Us', href: `/${lang}/about` },
         { label: t.portfolio || 'Portfolio', href: `/${lang}/portfolio` },
         { label: t.testimonials || 'Testimonials', href: `/${lang}/testimonials` },
+        { label: t.blog || 'Blog', href: `/${lang}/about/blog` },
       ],
     },
     { label: t.contact || 'Contact', href: `/${lang}/contact` },

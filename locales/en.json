@@ -10,6 +10,7 @@
     "aboutUs": "About Us",
     "portfolio": "Portfolio",
     "testimonials": "Testimonials",
+    "blog": "Blog",
     "contact": "Contact"
   },
   "home": {
@@ -706,12 +707,48 @@
       }
     }
   },
-  "testimonialsPage": {
+  "testimonials": {
     "title": "Client Testimonials",
     "subtitle": "Don't just take our word for it. Here's what our clients have to say about working with us.",
     "ctaTitle": "Ready to Join Our Happy Clients?",
-    "ctaDescription": "Let's discuss your project and see how we can help your business grow.",
-    "ctaButton": "Start Your Project"
+    "ctaDescription": "Let's create something amazing together. Get in touch and start your project today.",
+    "ctaButton": "Start Your Project",
+    "testimonial1": {
+      "name": "Alex Johnson",
+      "role": "Restaurant Owner",
+      "company": "BekBurger",
+      "text": "GetGrowth built an amazing Telegram bot for our restaurant. Orders increased by 40% in the first month! The team was professional and delivered on time."
+    },
+    "testimonial2": {
+      "name": "Maria Santos",
+      "role": "Startup Founder",
+      "company": "TechFlow",
+      "text": "The branding package they created for us exceeded our expectations. Our new logo and brand identity helped us stand out in a crowded market."
+    },
+    "testimonial3": {
+      "name": "David Chen",
+      "role": "E-commerce Manager",
+      "company": "StyleHub",
+      "text": "Our website redesign by GetGrowth resulted in a 60% increase in conversions. They truly understand what makes a website work."
+    },
+    "testimonial4": {
+      "name": "Sarah Williams",
+      "role": "Marketing Director",
+      "company": "GreenLife Co",
+      "text": "The social media content they create for us is always on point. Our engagement has tripled since we started working with GetGrowth."
+    },
+    "testimonial5": {
+      "name": "Michael Brown",
+      "role": "Fitness Studio Owner",
+      "company": "FitZone",
+      "text": "From our website to our booking bot, GetGrowth has been instrumental in digitizing our business. Highly recommended!"
+    },
+    "testimonial6": {
+      "name": "Emma Davis",
+      "role": "Boutique Owner",
+      "company": "Chic & Co",
+      "text": "The logo animation they created for us is stunning. It really brings our brand to life on social media."
+    }
   },
   "aboutPage": {
     "title": "About GetGrowth",

@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: { params: { lang: string } })
     title: titles[params.lang as keyof typeof titles] || titles.en,
     description: descriptions[params.lang as keyof typeof descriptions] || descriptions.en,
     alternates: {
-      canonical: `https://getgrowth.online/${params.lang}/blog/why-website-is-important`,
+      canonical: `https://getgrowth.online/${params.lang}/about/blog/why-website-is-important`,
     },
   };
 }
@@ -31,7 +31,7 @@ export default function BlogPost({ params }: { params: { lang: string } }) {
     <div className="min-h-screen py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-purple-50 via-white to-blue-50">
       <article className="blog-post max-w-4xl mx-auto bg-white rounded-2xl shadow-xl p-8 md:p-12">
         <Link 
-          href={`/${params.lang}/blog`}
+          href={`/${params.lang}/about/blog`}
           className="text-purple-600 hover:text-purple-800 font-semibold mb-6 inline-block"
         >
           ← {translations.blog.backToBlog}

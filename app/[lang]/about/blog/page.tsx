@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: { lang: string } })
     title: titles[params.lang as keyof typeof titles] || titles.en,
     description: descriptions[params.lang as keyof typeof descriptions] || descriptions.en,
     alternates: {
-      canonical: `https://getgrowth.online/${params.lang}/blog`,
+      canonical: `https://getgrowth.online/${params.lang}/about/blog`,
     },
   };
 }
@@ -69,7 +69,7 @@ export default function BlogPage({ params }: { params: { lang: string } }) {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {blogPosts.map((post, index) => (
             <AnimatedSection key={post.slug} delay={index * 0.2}>
-              <Link href={`/${params.lang}/blog/${post.slug}`}>
+              <Link href={`/${params.lang}/about/blog/${post.slug}`}>
                 <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:scale-105 h-full flex flex-col">
                   <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">
                     <span>{post.date}</span>
