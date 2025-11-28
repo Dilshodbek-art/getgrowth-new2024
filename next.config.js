@@ -16,18 +16,48 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '/:lang/blog',
-        destination: '/:lang/about/blog',
+        source: '/en/blog',
+        destination: '/en/about/blog',
         permanent: true,
       },
       {
-        source: '/:lang/blog/:slug',
-        destination: '/:lang/about/blog/:slug',
+        source: '/ru/blog',
+        destination: '/ru/about/blog',
         permanent: true,
       },
       {
-        source: '/:lang/comments',
-        destination: '/:lang/testimonials',
+        source: '/uz/blog',
+        destination: '/uz/about/blog',
+        permanent: true,
+      },
+      {
+        source: '/en/blog/:slug',
+        destination: '/en/about/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/ru/blog/:slug',
+        destination: '/ru/about/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/uz/blog/:slug',
+        destination: '/uz/about/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/en/comments',
+        destination: '/en/testimonials',
+        permanent: true,
+      },
+      {
+        source: '/ru/comments',
+        destination: '/ru/testimonials',
+        permanent: true,
+      },
+      {
+        source: '/uz/comments',
+        destination: '/uz/testimonials',
         permanent: true,
       },
     ];
