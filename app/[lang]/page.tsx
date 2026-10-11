@@ -171,6 +171,12 @@ export default function HomePage({ params }: { params: { lang: string } }) {
 
   return (
     <>
+      <aside aria-label="GetGrowth announcement" className="gradient-bg px-4 py-3 text-center text-white sm:px-6 lg:px-8">
+        <p className="mx-auto max-w-7xl text-sm font-medium leading-relaxed sm:text-base">
+          🚀 GetGrowth is evolving — Smarter digital solutions for growing businesses.
+        </p>
+      </aside>
+
       {/* Hero Section */}
       <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-gradient-to-br from-purple-50 via-white to-blue-50">
         <div className="absolute inset-0 overflow-hidden">
